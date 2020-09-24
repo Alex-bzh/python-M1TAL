@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>150 Les structures de contrôle | Python</title>
+    <meta charset="utf-8" />
+    <!--<link rel="stylesheet" href="file:///Users/alexandre/Google%20Drive/remark/layout.css" />-->
+    <link rel="stylesheet" href="http://alexandre.roulois.fr/remark/layout.css" />
+  </head>
+  <body>
+    <textarea id="source">
+
+class: center, middle, inverse
+
+# Les structures de contrôle
+Alexandre Roulois (LLF, CNRS/Paris-Diderot)
+
+---
+
+## Sommaire
+
+- Syntaxe
+- Structures conditionnelles
+- Structures itératives
+
+---
+class: center, middle, inverse
+
+# Les structures de contrôle
+*« Un programme sans boucle ni structure variable ne mérite pas d’être écrit. »*  
+(Alan Jay Perlis)
+
+---
+layout:true
+## Structures de contrôle
+---
+
+.col-gauche[
+### Syntaxe
+]
+.col-droite[
+Blocs d’instructions :
+- délimités par l’indentation
+- ligne d’en-tête terminée par `:`
+- plus qu’une recommandation, une .imp[obligation]
+
+Commentaires sur une ligne précédés par un dièse (`#`) :
+```
+if a < b :    # Si la variable a est inférieure à la b
+  # Faire quelque chose
+```
+Commentaires multi-lignes encadrés par trois guillemets :
+```
+"""
+Partie de code supprimée à la demande du client
+le 13 septembre 2013
+Auteur de la note : Alexandre Roulois
+"""
+```
+]
+
+---
+
+.col-gauche[
+### Syntaxe
+### Structures conditionnelles
+]
+.col-droite[
+Traduit la structure logique :
+  - si une condition `a` est vérifiée, exécuter un ensemble d’actions `e`
+  - autrement, si une condition `b` est vérifiée, exécuter un ensemble d’actions `f`
+  - sinon, exécuter les actions `z`
+
+Structure très fréquente pour tester :
+- les données de l’utilisateur
+- le résultat d’une opération
+- la présence d’un pré-requis
+
+Fonctionne souvent en combinaison d’opérateurs :
+- comparaison (`==` `!=` `<=` ou `<`…)
+- booléens (`and` `or` `not`)
+- calcul (`+` `-` `*` `/` `%`)
+]
+
+---
+
+.col-gauche[
+### Syntaxe
+### Structures conditionnelles
+]
+.col-droite[
+Exemple de test avec comparaison de valeurs :
+```
+a = 2
+b = 3
+if a < b:
+  print a, "est inférieur à", b
+else:
+  print a, "est supérieur à", b
+```
+Conditions imbriquées :
+```
+a = 2
+b = 3
+if a < b:
+  print a, "est inférieur à", b
+  if a + b < 5:
+    print "La somme des deux est strictement inférieure à 5"
+  elif a + b >= 5 and a + b < 10:
+    print "La somme des deux est comprise entre 5 et 10"
+```
+]
+
+---
+
+.col-gauche[
+### Syntaxe
+### Structures conditionnelles
+### Structures itératives
+]
+.col-droite[
+.imp[Objectif :] Automatiser des tâches répétitives :
+- copier cent fois : « Je ne dois pas consulter Facebook en cours »
+- récupérer chaque jour à la même heure les actus du *Monde*
+- lister le contenu de toutes les boîtes d’archives
+- …
+
+.imp[Problème :] Raconter l’histoire de *l’homme qui a vu l’homme qui a vu l’ours* avec 9 témoins indirects
+```
+# Méthode fastidieuse
+print "l’homme qui a vu "
+print "l’homme qui a vu "
+print "l’homme qui a vu "
+…
+print "l’ours"
+
+# Méthode économique
+print "l'homme qui a vu " * 9 + "l’ours."
+```
+]
+
+---
+
+.col-gauche[
+### Syntaxe
+### Structures conditionnelles
+### Structures itératives
+]
+.col-droite[
+Méthode avec boucles itératives :
+- boucle `while` (soumettre la tâche à une condition)
+- boucle `for` (systématiser une tâche)
+
+#### Boucle while
+Nécessite 3 éléments :
+- un compteur
+- une condition
+  - qui soit vraie…
+  - … jusqu’à être fausse !
+- une valeur d’incrémentation
+
+```
+i = 0                       # Compteur initialisé à 0
+while i < 10 :              # Condition : tant que "i" < à 10
+  print "l’homme qui a vu"  # Afficher "l’homme qui a vu"
+  i += 1                    # Ajouter +1 au compteur
+print "l’ours"              # La boucle finie, afficher "l'ours"
+```
+]
+---
+
+.col-gauche[
+### Syntaxe
+### Structures conditionnelles
+### Structures itératives
+]
+.col-droite[
+#### Boucle for
+Traitement systématique de chaque élément d’un ensemble :
+- les livres d’une bibliothèque l’un après l’autre
+- les mots d’un dictionnaire
+- les nombres d’une série mathématique
+- …
+
+Liste de personnages de la série *Game of Thrones* :
+```
+got = ["Tywin", "Tyrion", "Jaime", "Rob", "Sansa", "Arya"]
+```
+.imp[Problème :] Comment tous les afficher ?
+]
+---
+
+.col-gauche[
+### Syntaxe
+### Structures conditionnelles
+### Structures itératives
+]
+.col-droite[
+Méthode fastidieuse :
+```
+print got[0]
+print got[1]
+…
+```
+Méthode avec boucle `while` :
+```
+i = 0           # Compteur initialisé à 0
+while i < 6:    # Tant que "i" < à 6
+  print got[i]  # Afficher la valeur de l'indice que vaut "i"
+  i += 1        # Ajouter +1 au compteur
+```
+Contraintes :
+- connaître la longueur du tableau à l’avance
+- liste figée (ni suppression, ni addition)
+]
+---
+
+.col-gauche[
+### Syntaxe
+### Structures conditionnelles
+### Structures itératives
+]
+.col-droite[
+Comment améliorer la boucle `while` ?
+
+Fonction `len()` pour calculer dynamiquement la longueur d’un objet
+```
+i = 0               # Compteur initialisé à 0
+while i < len(got): # Tant que "i" < à longueur de "got"
+  print got[i]      # Afficher la valeur de l'indice que vaut "i"
+  i += 1            # Ajouter +1 au compteur
+```
+Méthode systématique requiert moins de paramètres :
+```
+for nom in got:     # Pour chaque "nom" dans "got"
+  print nom         # Afficher "nom"
+```
+Python se charge tout seul de :
+- créer un compteur
+- l’incrémenter au fur et à mesure
+- instancier *nom* et lui affecter la valeur de l’indice courant
+]
+---
+
+.col-gauche[
+### Syntaxe
+### Structures conditionnelles
+### Structures itératives
+]
+.col-droite[
+#### Conclusion
+.colonne[
+Boucle `while` répond à une condition
+
+Elle s’arrête lorsque la condition est remplie ou si elle rencontre une instruction `break`
+```
+i = 0   # Compteur à 0
+# Tant que "i" inférieur à 10
+while i < 10:
+  # Si "i" = 5
+  if i == 5:
+    # On sort de la boucle
+    break
+  # Afficher la valeur de "i"
+  print i
+  # Incrémentation de "i"
+  i += 1
+```
+]
+.colonne[
+Boucle `for` pour un traitement systématique, à privilégier
+
+Ne jamais modifier l’objet de la condition dans une boucle `for` : risque de boucle infinie !
+```
+# Pour chaque nombre dans une liste de 10
+for nb in range(10):
+  # Afficher le nombre courant
+  print nb,
+```
+]
+]
+
+    </textarea>
+    <!--<script src="file:///Users/alexandre/Google%20Drive/remark/remark-latest.min.js">-->
+    <script src="http://alexandre.roulois.fr/remark/remark-latest.min.js">
+    </script>
+    <script>
+      var slideshow = remark.create({
+        highlightLanguage: 'python',
+        highlightStyle: 'monokai',
+      });
+    </script>
+  </body>
+</html>
