@@ -1,0 +1,361 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>140 Les séquences | Python</title>
+    <meta charset="utf-8" />
+    <!--<link rel="stylesheet" href="file:///Users/alexandre/Google%20Drive/remark/layout.css" />-->
+    <link rel="stylesheet" href="http://alexandre.roulois.fr/remark/layout.css" />
+  </head>
+  <body>
+    <textarea id="source">
+
+class: center, middle, inverse
+
+# Les séquences
+Alexandre Roulois (LLF, CNRS/Paris-Diderot)
+
+---
+
+## Sommaire
+
+- Opérations communes
+- Les chaînes de caractères
+- Les listes
+- Les tuples
+
+---
+class: center, middle, inverse
+
+# Opérations communes
+*« Les ordinateurs sont comme les dieux de l’Ancien Testament :  
+avec beaucoup de règles, et sans pitié »*  
+(Joseph Campbell)
+
+---
+layout:true
+## Les séquences
+---
+
+.col-gauche[
+### Opérations communes
+- Tests
+]
+.col-droite[
+Prenons une séquence de type `str` :
+```
+>>> chaine = "bazinga"
+```
+Accès à un élément par son indice :
+```
+>>> chaine[2]     # "z" est en 3e position, à l'indice 2
+'z'
+>>> chaine[-3]
+'n'
+```
+Tests d’appartenance :
+```
+>>> "z" in chaine
+True
+>>> "ing" not in chaine
+False
+>>> "zga" in chaine
+False
+```
+]
+---
+
+.col-gauche[
+### Opérations communes
+- Tests
+- Calculs
+]
+.col-droite[
+Compter le nombre d’occurrences d’un élément :
+```
+>>> chaine.count("a")
+2
+```
+Calculer la longueur d’une séquence :
+```
+>>> len(chaine)
+7
+```
+Accéder à l’indice du premier élément trouvé :
+```
+>>> chaine.index("a")
+1
+>>> chaine.index("in")
+3
+```
+Concaténation :
+```
+>>> chaine + "aaaaa!"
+'bazingaaaaaa!'
+```
+]
+---
+
+.col-gauche[
+### Opérations communes
+- Tests
+- Calculs
+- Slicing
+]
+.col-droite[
+.colonne[
+.imp[Slicing :] opération pour isoler une sélection dans une liste (*slice*)
+
+.imp[Slice :] intervalle de deux index, le premier inclus, le second exclus, le pas étant optionnel :
+]
+.colonne[
+```
+>>> chaine = "bazinga"
+>>> chaine[2:]        # zinga
+>>> chaine[:2]        # ba
+>>> chaine[:]         # bazinga
+>>> chaine[1:3]       # az
+>>> chaine[2:2]       # ''
+>>> chaine[::2]       # 'bzna'
+```
+]
+.img-large[![Bazinga !](images/bazinga.png)]
+]
+---
+
+.col-gauche[
+### Opérations communes
+- Tests
+- Calculs
+- Slicing
+]
+.col-droite[
+Indices négatifs autorisés :
+```
+>>> chaine[-1:]       # a
+>>> chaine[:-2]       # bazin
+>>> chaine[3:-3]      # i
+>>> chaine[-4:2]      # ''
+```
+Pas négatif également autorisé :
+```
+>>> chaine[1:6:3]     # an
+>>> chaine[::-1]      # agnizab
+>>> chaine[-2:-5:-2]  # gi
+>>> chaine[-2:3:-2]   # g
+>>> chaine[-3:5:-2]   # ''
+```
+Fonctionne sur toutes les séquences (chaînes de caractères, listes et tuples)
+]
+
+---
+class: center, middle, inverse
+
+# Les chaînes de caractères
+*« Un clavier azerty en vaut deux »*
+
+---
+
+.col-gauche[
+### Opérations communes
+### Châines
+]
+.col-droite[
+Instanciation grâce aux *quotes*, simples ou doubles :
+```
+>>> a = "bazinga"
+>>> b = 'bazinga'
+```
+*Quotes* doubles pour prévenir les apostrophes :
+```
+>>> chaine = "Howard est l'ami de Sheldon"
+>>> chaine = 'Howard est l'ami de Sheldon'  # Erreur : interpréteur ne comprend pas où l’instruction prend fin
+```
+Chaînes sont immuables :
+```
+>>> a[2]
+'z'
+>>> a[2] = "w" # Erreur : assignation par indice interdite
+```
+Modifier en remplaçant la valeur :
+```
+>>> a = a[:2] + "w" + a[3:]
+```
+]
+---
+
+.col-gauche[
+### Opérations communes
+### Châines
+]
+.col-droite[
+Instruction `print` pour afficher immédiatement
+
+Méthode `format` pour préparer un modèle d’affichage :
+```
+>>> prenom = 'Sheldon'
+>>> metier = 'physicien'
+>>> modele = '{p} exerce le métier de {m}'.format(p = prenom, m = metier)
+>>> print modele
+Sheldon exerce le métier de physicien
+```
+Nombreuses méthodes disponibles (voir *notebook* `141_chaines.ipynb`)
+]
+
+---
+class: center, middle, inverse
+
+# Les listes
+*« Avoir un peu de spleen  
+Écouter Janis Joplin »*
+(Rose, *La liste*)
+
+---
+
+.col-gauche[
+### Opérations communes
+### Châines
+### Listes
+]
+.col-droite[
+.imp[Liste :] collection d’éléments hétéroclites, séparés entre eux par des virgules, et délimitée par des crochets :
+```
+>>> liste = ["Vélo", 12, "Chien", "Melon", "5,25", 5.25]
+>>> print liste      # ['V\xc3\xa9lo', 12, 'Chien', 'Melon', '5,25', 5.25]
+```
+Éléments ordonnés, accessibles via un index :
+```
+>>> print liste[2]    # Chien
+>>> print liste[-1]   # 5.25
+>>> print liste[-3]   # Melon
+```
+Éléments mutables, contrairement aux chaînes :
+```
+>>> liste[2] = "Chat"
+>>> print liste[2]    # Chat
+```
+Fonction `len()` calcule le nombre d’éléments dans la liste :
+```
+>>> print len(liste)  # 6
+```
+]
+
+---
+
+.col-gauche[
+### Opérations communes
+### Châines
+### Listes
+]
+.col-droite[
+Pour supprimer un élément de la liste, grâce à son index, fonction `del` :
+```
+>>> del(liste[3])
+>>> print len(liste)
+5
+>>> print liste
+['V\xc3\xa9lo', 12, 'Chien', '5,25', 5.25]
+```
+Les listes sont des objets : disposent de fonctions attachées, les méthodes
+
+Pour ajouter un élément, méthode `append` ou concaténation :
+```
+>>> liste.append("python")
+>>> liste += ["avion"]
+>>> print liste
+['V\xc3\xa9lo', 12, 'Chien', '5,25', 5.25, 'python', 'avion']
+```
+]
+
+---
+
+.col-gauche[
+### Opérations communes
+### Châines
+### Listes
+]
+.col-droite[
+Application des techniques de slicing :
+```
+>>> liste = ["Vélo", 12, "Chien", "Melon", "5,25", 5.25]
+>>> slice = liste[2:4]
+>>> print slice
+['Chien', 'Melon']
+>>> print liste[1:-2]
+[12, 'Chien', 'Melon']
+>>> print liste[-3:-2]
+['Melon']
+```
+Le résultat d’un slicing est toujours un objet de type `list`, même si celui-ci ne contient qu’un seul élément (potentiellement de type complexe)
+]
+
+---
+
+.col-gauche[
+### Opérations communes
+### Châines
+### Listes
+]
+.col-droite[
+Pour amputer une liste de certains éléments :
+```
+>>> liste = liste[1:5]  # Réaffectation à partir d'un slice
+>>> print liste
+[12, 'Chien', 'Melon', '5,25']
+>>> liste[1:3] = []     # Équivalent à del(liste[1:3])
+>>> print liste
+[12, '5,25']
+```
+Ou encore pour en ajouter :
+```
+>>> liste[2:2] = ["jambon","courage"]
+>>> liste[1:3] = [85.12]
+>>> print liste
+[12, 85.12, 'courage']
+```
+]
+
+---
+class: center, middle, inverse
+
+# Les tuples
+*« Sextupler des tuples les rendrait-il plus sexys ? »*
+---
+
+.col-gauche[
+### Opérations communes
+### Châines
+### Listes
+### Tuples
+]
+.col-droite[
+Forme immuable des listes
+
+Notation entre parenthèses :
+```
+>>> t = ()
+```
+Possèdent 0 ou plus de 1 élément
+
+S’utilisent souvent en complément des listes pour regrouper des données :
+```
+>>> bbt = [
+... ('Sheldon', 'grand dadais', 'physicien'),
+... ('Penny', 'blonde', 'visiteuse médicale'),
+... ('Howard', 'petit à lunettes', 'physicien'),
+... ]
+```
+Pour des tuples élaborés : créer des listes puis les transformer grâce à la fonction native `tuple()`
+]
+
+    </textarea>
+    <!--<script src="file:///Users/alexandre/Google%20Drive/remark/remark-latest.min.js">-->
+    <script src="http://alexandre.roulois.fr/remark/remark-latest.min.js">
+    </script>
+    <script>
+      var slideshow = remark.create({
+        highlightLanguage: 'python',
+        highlightStyle: 'monokai',
+      });
+    </script>
+  </body>
+</html>

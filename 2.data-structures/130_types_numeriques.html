@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>130 Types numériques | Python</title>
+    <meta charset="utf-8" />
+    <!--<link rel="stylesheet" href="file:///Users/alexandre/Google%20Drive/remark/layout.css" />-->
+    <link rel="stylesheet" href="http://alexandre.roulois.fr/remark/layout.css" />
+  </head>
+  <body>
+    <textarea id="source">
+
+class: center, middle, inverse
+
+# Les types numériques
+Alexandre Roulois (LLF, CNRS/Paris-Diderot)
+
+---
+class: center, middle, inverse
+
+# Les types numériques
+*« Il y a 10 sortes de gens au monde :  
+ceux qui connaissent le binaire et les autres »*
+
+---
+layout:true
+## Les types numériques
+---
+
+Plusieurs types numériques :
+- `int` : nombres entiers, naturels (0, 1, 2…) ou relatifs (-2, -1, 0, +1, +2…)
+- `float` : nombres décimaux
+- `complex` : nombres complexes (constante complexe, en python, se note `j`)
+```
+>>> print (3 / 4j) + 1.5j
+0.75j
+```
+
+Opérateurs mathématiques respectés (addition, multiplication…)
+
+Signe `=` pour l’affectation : signifie qu’une valeur a pour référence un nom
+
+Le test d’égalité s’effectue avec l’opérateur `==` ou l’instruction `is`
+
+Priorité des opérations :
+- Parenthèses
+- Exposants
+- Multiplication et division
+- À niveau égal, exécution de gauche à droite
+
+---
+
+Attention à la gestion de certains calculs, notamment à la division :
+```
+>>> a = 4
+>>> b = 3
+>>> a / b       # 1
+>>> a % b       # 1
+```
+Division sur des entiers donne un entier
+
+Remarquez la différence de notation :
+```
+>>> c = 5
+>>> c           # 5
+>>> float(c)    # 5.0
+```
+Transformation de type `int` en `float` pour afficher un `float` :
+```
+>>> float(a) / b
+1.3333333333333333
+```
+    </textarea>
+    <!--<script src="file:///Users/alexandre/Google%20Drive/remark/remark-latest.min.js">-->
+    <script src="http://alexandre.roulois.fr/remark/remark-latest.min.js">
+    </script>
+    <script>
+      var slideshow = remark.create({
+        highlightLanguage: 'python',
+        highlightStyle: 'monokai',
+      });
+    </script>
+  </body>
+</html>
