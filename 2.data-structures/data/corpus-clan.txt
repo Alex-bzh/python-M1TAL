@@ -1,0 +1,63 @@
+*NIB:	pourquoi est ce que tu as choisi l'université de Salford?
+*C01:	um j'aime Manchester.
+*C01:	et je trust@s euh j'ai voulu étudier à Manchester et à Salford.
+*C01:	j'aime le cours.
+*NIB:	tu viens de quelle partie de l'Angleterre?
+*C01:	um pas d'Angleterre.
+*C01:	du pays de Galles.
+*NIB:	du pays de Galles?
+*C01:	oui.
+*NIB:	euh d'ou au pays de Galles?
+*C01:	euh le sud.
+*NIB:	le sud?
+*C01:	oui de Swansea.
+*NIB:	um est ce que tu as le mal du pays ici?
+*C01:	um xxx oui beaucoup.
+*NIB:	tu rentres pour Noël?
+*C01:	euh oui.
+*NIB:	ok ou est ce que tu habites à Salford?
+*C01:	euh j'habite à halls.
+*NIB:	halls?
+*C01:	halls.
+*NIB:	et comment tu fais pour venir ici chaque matin?
+*C01:	euh quelques fois je prends l'autobus.
+*C01:	mais aussi je marche.
+*NIB:	tu marches?
+*C01:	mmm.
+*NIB:	et ta chambre te plait?
+*C01:	oui.
+*NIB:	tu peux me la décrire un peu?
+*C01:	oh il y un lit un bureau une chaise et une armoire.
+*C01:	et c'est tout.
+*NIB:	0[=! rire] et ça te plait comme ça?
+*C01:	mmm.
+*NIB:	et pour la nourriture comment tu te débrouilles?
+*C01:	euh je n'aime pas le nourriture ici .
+*C01:	oh je ne mange beaucoup.
+*NIB:	tu ne manges pas beaucoup?
+*NIB:	est ce que tu peux faire ta propre cuisine à halls?
+*C01:	euh oui on peut.
+*C01:	mais c'est très difficile pas possible.
+*NIB:	est ce que tu fais partie d'un club?
+*C01:	euh non.
+*NIB:	non.
+*NIB:	alors qu'est ce que tu fais dans pendant les weekends?
+*C01:	euh je regarde la télévision.
+*C01:	euh et je sors.
+*NIB:	tu sors?
+*C01:	et c'est tout.
+*NIB:	ou est ce que tu sors?
+*NIB:	<y'a> [/] y'a beaucoup de choses à faire à Manchester?
+*C01:	ah oui je fais beaucoup euh des cours non des courses.
+*NIB:	des courses?
+*C01:	mmm.
+*NIB:	tu aimes le centre d'achats?
+*C01:	ah oui.
+*NIB:	est ce que vous en avez un comme Ça à d'ou tu viens?
+*NIB:	un centre d'achats aussi grand que le Arndale?
+*C01:	euh non.
+*C01:	mais <j'ai> [/] j'ai visité Manchester euh.
+*NIB:	avant?
+*C01:	ya@n oui 0[=! rire] oui.
+*NIB:	et ça t'a plu?
+*C01:	oui.
