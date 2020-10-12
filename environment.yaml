@@ -1,0 +1,8 @@
+name: python-M1TAL-environment
+channels:
+  - conda-forge
+dependencies:
+  - beautifulsoup4
+  - matplotlib
+  - nltk==3.4.5
+  - rise
