@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<constellations>
+    <constellation origin="Lacaille">
+        <name fr="La Carène">Carina</name>
+        <areas>
+            <area unit="deg2">494.184</area>
+            <area unit="percent">1.20</area>
+        </areas>
+    </constellation>
+    <constellation origin="Ptolémée">
+        <name fr="Le Corbeau">Corvus</name>
+        <areas>
+            <area unit="deg2">183.801</area>
+            <area unit="percent">0.45</area>
+        </areas>
+    </constellation>
+    <constellation origin="Lacaille">
+        <name fr="Le microscope">Microscopium</name>
+        <areas>
+            <area unit="deg2">209.513</area>
+            <area unit="percent">0.51</area>
+        </areas>
+    </constellation>
+    <constellation origin="Ptolémée">
+        <name fr="Le Triangle">Triangulum</name>
+        <areas>
+            <area unit="deg2">131.847</area>
+            <area unit="percent">0.32</area>
+        </areas>
+    </constellation>
+    <constellation origin="Ptolémée">
+        <name fr="Le Dragon">Draco</name>
+        <areas>
+            <area unit="deg2">1082.952</area>
+            <area unit="percent">2.63</area>
+        </areas>
+    </constellation>
+    <constellation origin="Ptolémée">
+        <name fr="La Grande Ourse">Ursa major</name>
+        <areas>
+            <area unit="deg2">1279.660</area>
+            <area unit="percent">3.10</area>
+        </areas>
+    </constellation>
+    <constellation origin="Lacaille">
+        <name fr="La Boussole">Pyxis</name>
+        <areas>
+            <area unit="deg2">220.833</area>
+            <area unit="percent">0.54</area>
+        </areas>
+    </constellation>
+    <constellation origin="Ptolémée">
+        <name fr="Le Cocher">Auriga</name>
+        <areas>
+            <area unit="deg2">657.438</area>
+            <area unit="percent">1.59</area>
+        </areas>
+    </constellation>
+    <constellation origin="Ptolémée">
+        <name fr="L’Aigle">Aquila</name>
+        <areas>
+            <area unit="deg2">652.473</area>
+            <area unit="percent">1.58</area>
+        </areas>
+    </constellation>
+</constellations>
