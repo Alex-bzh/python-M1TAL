@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <books>
+        <book ref_author="FLA" xml:lang="fr">
+            <title>Salammbô</title>
+            <pub_year>1862</pub_year>
+            <summary>Salammbô est un roman historique de Gustave Flaubert, paru en 1862 chez Michel Lévy. Il prend pour sujet la Guerre des Mercenaires, iiie siècle av. J.-C., qui opposa la ville de Carthage avec les Mercenaires barbares qu’elle avait employés pendant la première Guerre punique, et qui se révoltèrent, furieux de ne pas avoir reçu la solde convenue. Flaubert chercha à respecter l’Histoire connue, mais profita du peu d’informations disponibles pour décrire un Orient à l’exotisme sensuel et violent.</summary>
+            <grade>5</grade>
+        </book>
+        <book ref_author="SHA" xml:lang="fr">
+            <title original_title="Othello, the Moor of Venice" original_title_lang="en">Othello, le Maure de Venise</title>
+            <pub_year>1604</pub_year>
+            <summary>Général de Venise, Othello est un homme heureux : il a épousé labelle et vertueuse Desdémona. Mais son bonheur est fragile : jaloux, le perfide lago tente de séduire Desdémona qui le repousse. Pour se venger, il persuade Othello qu'elle a pour amant l'honnête Cassio, distillant le mensonge à la façon d'un venin. Aveuglé par la jalousie, Othello commet l'irréparable avant de comprendre que l'on s'est joué de lui... Tragédie captivante, magistralement construite, Othello est sans doute l'une des plus belles expressions littéraires de la jalousie.</summary>
+            <grade>4</grade>
+        </book>
+        <book ref_author="SHA" xml:lang="fr">
+            <title original_title="Much Ado About Nothing" original_title_lang="en">Beaucoup de bruit pour rien</title>
+            <pub_year>1600</pub_year>
+            <summary>Beaucoup de bruit pour rien est une comédie de William Shakespeare publiée en 1600, dont la première a probablement été représentée à l’hiver 1598-15991. Elle reste à ce jour l’une des comédies de Shakespeare les plus populaires. Stylistiquement, elle a beaucoup de points communs avec les comédies romantiques qui jouent sur deux couples d’amoureux : le couple romantique, Claudio et Hero, et leur contrepartie comique, Bénédict et Béatrice.</summary>
+            <grade>3</grade>
+        </book>
+        <book ref_author="HUG" xml:lang="fr">
+            <title>Les travailleurs de la mer</title>
+            <pub_year>1866</pub_year>
+            <summary>C'est à la fois un conte et un drame héroïque, l'histoire de Gilliat, pêcheur solitaire, amoureux d'une belle jeune femme, qui pour elle s'en va braver l'océan. Propriétaire d'un bateau à vapeur qui vient de subir un naufrage, un vieil armateur a en effet promis la main de sa nièce à celui qui ira puiser au fond de l'eau les formidables et nouvelles machines encore intactes. C'est contre vents et marées, contre les obstacles naturels et sous le regard malveillant d'autres travailleurs de la mer que Gilliat parvient à son but. Son exploit se révélera vain et sa fin tragique, assistant à la fuite de sa promise avec celui qui était son amant.</summary>
+            <grade>4</grade>
+        </book>
+        <book ref_author="FLA" xml:lang="fr">
+            <title>La tentation de Saint Antoine</title>
+            <pub_year>1874</pub_year>
+            <summary>Née de la rencontre avec un tableau de Bruegel et du souvenir des spectacles forains de la foire Saint-Romain à Rouen, La Tentation de saint Antoine résume la diablerie romantique, ses monstres, ses obsessions, ses ténèbres. «Œuvre de toute ma vie», disait Flaubert, elle est aussi « le cabinet secret de son esprit » selon Baudelaire qui voulait « surtout attirer l'attention du lecteur sur cette faculté souffrante, souterraine et révoltée, qui traverse toute l'œuvre, ce filon ténébreux qui illumine et qui sert de guide à travers ce carphanaüm pandémoniaque de la solitude. »</summary>
+            <grade>4</grade>
+        </book>
+        <book ref_author="HUG" xml:lang="fr">
+            <title>Quatrevingt-treize</title>
+            <pub_year>1874</pub_year>
+            <summary>Initialement prévu comme le dernier volet d’une trilogie consacrée à la révolution française, le book se situe aux heures les plus noires du soulèvement populaire : la Terreur. La Convention a « abdiqué » après un bain de sang orchestré par les girondins et comme emportés par une folie meurtrière, les vainqueurs – Danton et Robespierre – vont s’affronter à mort.</summary>
+            <grade>3</grade>
+        </book>
+        <book ref_author="BOR" xml:lang="es">
+            <title>El Aleph</title>
+            <pub_year>1949</pub_year>
+            <summary>La mayoría de los cuentos reunidos en este libro pertenecen al género fantástico. Algunos surgieron a partir de crónicas policiales, de pinturas o simplemente de la visión de algún conventillo; otro explora el efecto que la inmortalidad causaría en los hombres; hay una glosa al Martín Fierro, sueños sobre la identidad personal y fantasías del tiempo. El cuento El Aleph, publicado por primera vez en 1945, aborda uno de los temas recurrentes en la literatura de Borges: el infinito. Porque en esa esfera resplandeciente confluyen de un modo asombroso todos los tiempos y todos los espacios.</summary>
+            <grade>4</grade>
+        </book>
+        <book ref_author="SHA" xml:lang="fr">
+            <title original_title="Macbeth" original_title_lang="en">Macbeth</title>
+            <pub_year>1623</pub_year>
+            <summary>Le général écossais Macbeth revient du combat où il a vaillamment défendu son seigneur Duncan quand, en pleine lande, trois sorcières apparaissent et lui annoncent qu'il deviendra roi. Lorsque Duncan lui rend visite pour le récompenser de sabravoure, Macbeth, hanté par la prédiction des sorcières et poussé par sa femme, tue son hôte et s'empare du pouvoir. En proie au remords, le couple sombre peu à peu dans la folie…</summary>
+            <grade>5</grade>
+        </book>
+    </books>
+    <authors>
+        <author id_author="FLA">
+            <lastname>Flaubert</lastname>
+            <firstname>Gustave</firstname>
+            <birth place="Rouen">1821-12-12</birth>
+            <death place="Croisset">1880-05-08</death>
+        </author>
+        <author id_author="HUG">
+            <lastname>Hugo</lastname>
+            <firstname>Victor</firstname>
+            <birth place="Besançon">1802-02-26</birth>
+            <death place="Paris">1885-05-22</death>
+        </author>
+        <author id_author="SHA">
+            <lastname>Shakespeare</lastname>
+            <firstname>William</firstname>
+            <birth place="Stratford-upon-Avon">1564</birth>
+            <death place="Stratford-upon-Avon">1616-04-23</death>
+        </author>
+        <author id_author="BOR">
+            <lastname>Borges</lastname>
+            <firstname>Jorge Luis</firstname>
+            <birth place="Buenos Aires">1899-08-24</birth>
+            <death place="Genève">1986-06-14</death>
+        </author>
+    </authors>
+</library>
