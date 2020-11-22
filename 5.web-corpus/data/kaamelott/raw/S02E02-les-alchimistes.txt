@@ -1,0 +1,176 @@
+PROLOGUE
+A la taverne, avec Perceval, Karadoc et le Tavernier.
+TAVERNIER
+: Vous êtes pas partis au combat avec les autres ?
+KARADOC
+: Demain.
+PERCEVAL
+: Avant on s'fait fabriquer une potion magique de puissance par Merlin.
+TAVERNIER
+: Vous êtes sûrs qu'il va vouloir ?
+PERCEVAL
+: Ben s'il veut pas, on part pas au combat, y'en a marre de se faire charcuter.
+***
+GENERIQUE
+***
+Labo de Merlin, avec celui-ci, Karadoc et Perceval.
+MERLIN
+: Non mais c'est gentil d'être passé mais j'ai pas le temps de discutailler, faut que j'men aille.
+KARADOC
+: Attendez deux minutes quand même.
+PERCEVAL
+: On a besoin de vous pour un truc.
+MERLIN
+: Non ! Ca vous a pas suffit la dernière fois ? Ne touchez pas à la magie !
+PERCEVAL
+: La dernière fois ça n'a rien à voir, vous nous avez mal expliqué.
+MERLIN
+: Quoi ?!
+KARADOC
+: On était venu pour un sort de boules de feu pour aller attaquer un orque, vous nous donnez un parchemin !
+MERLIN
+: Un parchemin de boules de feu, et j'vous ai dit que quand on l'lisait ça déclenchait quoi ? Une boule de feu ! Alors forcément si vous le lisez dans le couloir en sortant d'ici, vous foutez l'feu au château ! J'vois pas c'que j'ai mal expliqué.
+PERCEVAL
+: Mais dans le couloir, c'était pour répéter.
+KARADOC
+: On voulait pas lancer la boule dans l'couloir, on est pas con non plus euh !
+PERCEVAL
+: Forcément, à peine on lit, ça part comme un pet votre saloperie !
+MERLIN
+: Bref, la boutique est fermée, adressez-vous à la concurrence !
+PERCEVAL
+: Allez quoi, on a besoin d'une potion, on va pas la faire nous-même, si ?!
+(Avec Karadoc.)
+Pfff...
+Ils se regardent, pensent à la même chose, et embarquent tout ce qu'ils peuvent.
+***
+Quelques instants plus tard.
+PERCEVAL
+: Bon maintenant, il s'agit de pas faire n'importe quoi.
+KARADOC
+: De l'organisation !
+PERCEVAL
+: Déjà, on devrait commencer par trier les fioles.
+KARADOC
+: Selon quoi ? Les couleurs ?
+PERCEVAL
+: Ah non non non ! Les couleurs, ça peut être trompeur, regardez les haricots... Les rouges sont plus jolis que les blancs, mais ils bousillent les boyaux !
+KARADOC
+: Ah ouais...
+PERCEVAL
+: Par exemple, celle-là,
+(il prend une fiole et la sent)
+qu'est-ce qu'on peut dire ?
+KARADOC
+:
+(Il sent à son tour.)
+Elle pue ?
+PERCEVAL
+: Voilà, et qu'est-ce qu'y'a d'autre qui pue sinon ?
+KARADOC
+: Comme fiole ?
+PERCEVAL
+: Non non non, dans la vie.
+KARADOC
+: Les pieds ?
+PERCEVAL
+: Et les pieds, on peut dire que c'est plutôt une bonne chose, ou une mauvaise chose ?
+KARADOC
+: C'est plutôt une bonne chose pour marcher, mais quand on marche trop, ça fait mal aux pieds.
+PERCEVAL
+: Exactement ! Donc cette fiole, selon comme elle pue, on dit qu'elle est plutôt bonne, mais faut pas trop en mettre. Allez-y.
+KARADOC
+:
+(il commence à vider la fiole dans une autre.)
+J'en mets combien ?
+PERCEVAL
+: Vous en mettez pas trop.
+Karadoc s'arrête.
+PERCEVAL
+: Voilà, ensuite ?
+KARADOC
+: Celle-là !
+PERCEVAL
+: Non non, celle-là on en met pas !
+KARADOC
+: Pourquoi ?
+PERCEVAL
+: Ben parce que on va pas toutes les mettre quand même, Merlin, il mets pas tout à chaque fois.
+KARADOC
+: Ah ouais... Celle-là ?
+PERCEVAL
+: Allez-y vous, sentez-là ! Il faut oser se lancer sinon vous progresserez jamais !
+KARADOC
+:
+(prend une autre fiole et la sent.)
+Ah merde !
+PERCEVAL
+: De quoi ?
+KARADOC
+: Elle sent les pieds celle-là.
+PERCEVAL
+: Comme l'autre ?
+KARADOC
+: Non, l'autre j'ai dit qu'elle puait mais pas forcément les pieds. Après vous avez dit "qu'est-ce qu'y'a d'autre qui pue ?", et moi j'ai dit "les pieds".
+PERCEVAL
+: Merde, et celle-là ?
+KARADOC
+: Celle-là, c'est vraiment les pieds.
+PERCEVAL
+: Pfff... Bon ben, faut tout recommencer !
+***
+Salle de la Table Ronde.
+Perceval et Karadoc sont en compagnie du roi.
+PERCEVAL
+: Alors voilà, si on vous a convoqué...
+Arthur lève les yeux au ciel.
+KARADOC
+: Ben quoi ?
+ARTHUR
+: Vous croyez vraiment que vous avez les moyens d'me convoquer ? Je suis là parce que j'le veux bien, et si vous m'avez fait déplacé pour rien, j'vous envoie 15 jours dans une cage sans boire ni bouffer et j'me démerde pour que vous chopiez le typhus ! J'vous écoute.
+PERCEVAL
+: Bon, on va faire simple.
+ARTHUR
+: J'vous l'conseille, oui.
+KARADOC
+: On était parti pour inventer une potion magique de puissance.
+ARTHUR
+: Qui ça ? Vous ?
+PERCEVAL
+: Ben on n'a pas de technique, mais c'est comme tout, faut avoir du... vous voyez ?
+KARADOC
+: Bon, la potion de puissance, ça a foiré.
+ARTHUR
+: Ah merde : Ca m'coupe les jambes ça ! Comment ça se fait ?
+PERCEVAL
+: Mais comparé à c'qu'on a trouvé, la potion de puissance, ça vaut d'la pisse.
+Karadoc boit le contenu de la fiole.
+PERCEVAL
+: Vous êtes prêt ?
+ARTHUR
+: Ben moi, oui !
+KARADOC :
+(avec une voix très aigüe.)
+Bonjour Sire ! Comment vous portez-vous aujourd'hui ?
+Les deux comparses se marrent, sous le regard blasé d'Arthur.
+***
+GENERIQUE
+***
+EPILOGUE.
+Dans la forêt. Lancelot, Perceval, Karadoc, ainsi que d'autres guerriers ont rejoint Arthur.
+LANCELOT
+: Victoire Sire ! L'ennemi est en fuite !
+PERCEVAL
+:
+(avec la voix aigüe)
+Ouais, c'est grâce à notre arme secrète !
+KARADOC
+:
+(de même avec cette voix particulière)
+On est indestructible !
+Les deux chevaliers se marrent, et Lancelot, à bout de nerfs, se met à les attaquer à coups d'épée.
+(Fondu noir.)
+PERCEVAL
+: Arrêtez ! C'est pour déconner !
+FIN
+Rédigé par deanlove35 pour HypnosérieKaamelott

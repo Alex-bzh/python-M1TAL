@@ -1,0 +1,180 @@
+Tente romaine.
+Arthur
+: Bon, tenez, alors vous apportez ça au seigneur Léodagan, et vous lui dites qu’il prépare ses hommes pour demain matin 4 heures.
+Homme
+: Bien Sire.
+Arthur
+: Et faites attention à ces cartes parce que ce sont les seuls exemplaires qu’on ait.
+Apparait la Dame du Lac.
+L’homme la voit et prend peur
+.
+Arthur
+: Ben, qu’est-ce qui vous prend vous êtes dingue ?
+La Dame du Lac
+(
+à l’homme
+) : Quoi ?
+Homme
+: Quoi quoi ?
+Arthur
+: Quoi, quoi quoi ?
+L’homme montre la Dame du lac
+.
+***
+Générique
+***
+Homme
+: Il y avait une dame.
+Arthur
+: Une dame ?
+Homme
+: Oui une dame là.
+Arthur
+: Bien sûr, sinon ça va beaucoup mieux la picole !
+Homme
+: Nan mais écoutez Sire…
+Arthur
+: Non c’est vous qui allez m’écouter, vous allez prendre les cartes, vous allez vous tirer, vous allez faire ce que je vous dis et je vous rappelle que c’est pressé.
+L’homme prend les cartes et sort de la tente
+.
+Lancelot entre
+.
+Lancelot
+: Sire, moi je veux bien rendre service, mais mes hommes dorment debout !
+Arthur
+: Comment ça ils dorment debout ?
+Lancelot
+: Ils roupillent sur place. Pas moyen de les bouger.
+Arthur
+: Ben je comprends pas, parce que cette nuit ils ont dormi ?
+Lancelot
+: Nan sire je suis désolé je peux pas bosser dans ses conditions.
+La Dame du lac apparait.
+Lancelot prend peur
+.
+Arthur
+: Mais qu’est-ce qui vous prend vous êtes dingue ?
+Lancelot
+: Mais euh hmmm…mais qui êtes vous ?
+Arthur et la Dame du Lac ensemble
+: Comment ça qui je suis ?
+Lancelot
+: Nan mais sire euh…
+Arthur
+: Mais quoi sire ? Chui chui chui enfin mais nan mais vous êtes givré ?
+La Dame du Lac
+: Mais, mais vous m’entendez pas ?
+Lancelot
+: Ben si si je vous entends si.
+Arthur
+: De quoi ?
+La Dame du Lac disparait.
+Lancelot regarde derrière lui
+.
+Arthur regarde en l’air
+.
+Lancelot
+: C’est elle ?
+Arthur
+: C’est elle.
+Lancelot
+: C’est la Dame du Lac n’est-ce pas ?
+Arthur
+: La Dame du Lac ? Où ça ?
+Lancelot
+: C’est incroyable son visage m’est familier.
+Arthur
+: Ouais la Dame du Lac vous vous souvenez euh… c'est pas faute de vous l’avoir dit y a que moi qui peux la voir.
+Lancelot
+: Ben attendez attendez euh…c'est…comment vous comprenez ça ?
+Arthur
+: Comment je comprends quoi là? Parce que pour le moment je comprends que dalle à que dalle.
+Lancelot
+: Je vois la Dame du Lac et pas vous.
+Arthur
+: Mais parce que vous voyez la Dame du Lac vous ? Mais depuis quand ?
+Lancelot, dubitatif, s’en va
+.
+Arthur
+: Nan mais ne me faites pas un vent en plus là ça va bien !
+***
+Arthur
+(
+à Léodagan
+) : Oui moi contourné par l’est j’ai rien contre maaaais…
+La Dame du Lac apparaît.
+Léodagan prend peur.
+Arthur
+: ça va bien oui ?
+Léodagan
+: Oh bah elle est pas mal celle-là !
+La Dame du Lac
+: Euh…bonjour, excusez-moi de vous demander ça mais est-ce que vous pourriez lui dire que j’ai un petit problème technique ?
+Léodagan
+: Elle a un problème technique.
+Arthur
+: Qui ça ?
+Léodagan
+: De la part ?
+La Dame du Lac
+: Alors, je peux pas vous dire qui je suis mais dites-lui que d’ordinaire, y a que lui qui peut me voir.
+Léodagan
+: Elle veut pas me dire mais soi-disant… nooooon ! Nan mais c’est bon ! Me prenez pas pour une bille non plus ! Vous êtes la Dame du Lac !
+La Dame du Lac
+: Ecoutez vous voyez bien que c’est un petit peu compliqué, alors jouez le jeu et dites-lui que j’ai un problème.
+Léodagan
+: Bon, elle a un problème.
+Arthur
+: Parce que là vous voyez la Dame du Lac ?
+Léodagan
+: Voilà. Mais justement je suppose que c’est ça ! Euh…le problème.
+Arthur
+: Bien sûr oui…euh…décrivez-la moi un peu. Juste que je me marre.
+Léodagan
+: Euh…elle est pas mal.
+Arthur
+: Oui nan ça c’est moi qui vous l’ai dit !
+Léodagan
+: Ah ben voilà ben je confirme.
+La Dame du Lac
+: Bon écoutez, vous lui dites que je vais revenir d’accord.
+La Dame du Lac disparait
+.
+Léodagan
+: Ah, ben elle est partie.
+Arthur
+: Est-ce que vous avez fini de vous payer ma tronche ?
+Léodagan
+: Parfaitement elle est partie ! Même euh…qu’elle revient !
+***
+Générique
+***
+Arthur
+(
+à Perceval
+) : Bon vous arrivez près du chef saxon et vous lui dites quoi ?
+La Dame du Lac apparaît.
+Perceval
+: Bonjour.
+Arthur
+: Bonjour ? Nan mais vous allez pas acheter des filets de merlan c’est un chef saxon !
+La Dame du Lac
+: Vous pourriez demander quelque chose à Arthur s’il vous plait ?
+Perceval
+: Qu’est-ce qu’il faut que je lui dise ?
+Arthur
+: Ben il faut qu’il vous respecte d’entrée ! Vous lui dites quelque chose qui le mette au pas direct !
+La Dame du Lac
+: Dites-lui qu’il faut pas qu’il s’inquiète, que ça va s’arranger.
+Perceval
+: Faut pas vous inquiéter, ça va s’arranger.
+Arthur
+: Qu’est-ce qui va s’arranger ? La guerre ? Non mais vous allez pas lui dire ça je vous dis de lui mettre le trac !
+La Dame du Lac
+: Bon sang mais faites un effort dites-lui que j’ai un problème !
+Perceval
+: Oh là là elle va pas me gonfler longtemps la rouquine !
+Arthur
+: La rouquine ouais… si c’est pas mal ouais. Faites attention quand même vous êtes tout seul ils sont 3500.
+***
+Rédigé par Sabricotte pour Kaamelott Hypnoseries

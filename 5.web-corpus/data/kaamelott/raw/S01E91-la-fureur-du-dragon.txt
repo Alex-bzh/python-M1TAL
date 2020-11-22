@@ -1,0 +1,202 @@
+Le roi et les seigneurs Perceval, Gauvain et Yvain sont dans la forêt.
+Arthur
+(curieux)
+: Alors, vous l'avez vu ?
+Perceval
+: C'est un gros dragon ? Un petit dragon ?
+Gauvain
+: On l'a pas vu, mon oncle.
+Yvain
+: De toute façon, il est même pas là alors...
+Le dragon passe au dessus d'eux.
+Arthur
+: Et ça, c'est un phacochère ?
+GENERIQUE
+On entend le dragon.
+Perceval
+: On dirait qu'il se rapproche.
+Une nouvelle fois le dragon passe au dessus d'eux.
+Perceval
+: Ou alors il s'éloigne.
+Arthur
+(
+en regardant Perceval)
+: Ah ! Heureusement que vous êtes là !
+Perceval
+: C'est difficile de jauger, on l'entend mais on le voit jamais.
+Gauvain
+: Tout ceci ne me dit rien qui vaille !
+Yvain
+: C'est comme si on était menacé par une menace aveugle ! Non ! C'est comme nous si on était aveugle et qu'on soit menacé. Oui, non ! …
+Arthur
+(
+le coupant
+): Bon allez, retournez-y vous !
+Gauvain
+: Encore nous ?
+Arthur
+: Oui pourquoi, vous êtes fatigués ?
+Gauvain
+: Du tout, mon oncle ! Nous nous montrerons digne de cette quête !
+Arthur
+: Voilà ! De toute façon, vous vouliez pas y allez, vous !
+Perceval
+: Comment ça ?
+Arthur
+: Vous même vous ne teniez pas absolument à y aller ?
+Perceval
+: Bah, c'est pas que j'y tiens pas mais heu...
+Arthur
+(
+le coupant)
+: Vous voulez y aller ?!
+Perceval
+: Ah non !
+Arthur
+: Bon voilà ! (
+En regardant les deux autres)
+Bon allez-y vous !
+Yvain et Gauvain partent.
+***
+Quelques instants plus tard.
+Arthur
+(criant)
+: Bon alors ! Vous le voyez ou pas ?
+Gauvain
+: Non, mon oncle !
+Yvain
+: Rien du tout !
+On entend encore le dragon.
+Perceval
+: Est-ce que vous l'entendez ?
+Arthur
+: Bah, évidement qu'ils l'entendent, on l'entend nous !
+Yvain
+: On l'entend comme vous !
+Arthur (
+à Perceval
+): Voilà !
+Yvain
+: De manière égale, j'ai envie de dire.
+Perceval
+,
+à Arthur
+: Ah ça c'est intéressant !
+Arthur
+(
+en regardant Perceval)
+: De quoi ?
+Perceval
+: Si ils entendent le dragon exactement au même volume que nous, ça veut dire qu'on est équidistant.
+Arthur
+(
+étonné)
+: Équidistant ?
+Perceval
+: Quoi ? Ca veut pas dire ça ?
+Arthur
+: euh … Là en l'occurrence ça peut ! Mais ça m'étonne de vous voir utiliser ce mot là.
+Perceval
+: Bah si ! Si c'est le même volume sonore, on est équidistant.
+Arthur
+: Par rapport à qui ?
+Perceval
+: A eux !
+Arthur
+: A eux et qui ? Ca suffit pas ! Le dragon ?
+Perceval
+: Après eux, j'en sais rien moi ! Si ils sont équidistants en même temps que nous on peux repérer le dragon par rapport à une certaine distance. (
+Hésitant)
+Si le dragon s'éloigne on sera équidistant mais ça sera vachement moins précis et pas réciproque.
+Arthur
+: D'accord ! En fait vous savez pas du tout ce que ça veut dire.
+Ils se retournent.
+Perceval
+: Et est-ce que vous entendez le dragon exactement au même volume que nous ?
+Arthur
+(se retournant vers Perceval, surpris)
+: Qu'est ce que ça veut dire ça ?
+Yvain
+: Exactement au même volume?
+Arthur
+: Non, non, non, non ! C'est bon ! C'est bon ! Allez ! Ne vous occupez pas, continuez à chercher !
+Perceval
+: Décrivez nous précisément la nature du terrain !
+Arthur (
+regardant Perceval)
+: Mais arrêtez ! On n'en a rien à foutre !
+Perceval
+: Mais qu'est ce que je leur dis ?
+Arthur
+: Vous arrêtez de leur demandez des trucs à la con, vous la fermez !
+Gauvain
+: On arpente un sol argileux ! (
+Arthur regarde Perceval d'un air qui dit tout)
+De type humide !
+Yvain
+: Une végétation assez dense ! Grande concentration de conifère !
+Arthur regarde encore une fois Perceval en hochant de la tête.
+***
+Quelques temps plus tard.
+Perceval
+(
+à Arthur)
+: Si on pouvait s'arranger pour faire croire au dragon qu'on est parti lui il se dirait tac je peux revenir, hop nous on est caché dans un fossé qu'on a creusé.
+Gauvain
+(
+criant)
+: Mon oncle ! Mon oncle ! Le dragon !
+Yvain
+(
+criant)
+: Il est juste au dessus de nous !
+On entend le dragon.
+Yvain et Gauvain
+: Vite ! Vite !
+Arthur
+: Mais vite quoi ? Quoi vite ?
+Yvain
+: Qu'est ce qu'on fait ?
+Arthur
+: Comment qu'est ce qu'on fait ? Mais tirez-lui dessus !
+Gauvain
+: Mon oncle, je crains que nous ayons omis de nous munir de nos arbalètes.
+Arthur
+(
+ennuyé)
+: QUOI ? Oh putain !
+Perceval
+: Il faut attendre qu'il atterrisse et attaquer direct à l'épée.
+Arthur
+: Mais faites quelque chose ! Vous avez pas une lance, une fronde ?
+On entend encore le dragon.
+Yvain
+: Limite, on pourrait essayer de lui lancer une grosse pierre.
+On entend un bruit. Et le dragon.
+Yvain
+: A l'aide ! A l'aide !
+Des cris des deux hommes.
+Arthur
+: Eh bah ! Mais revenez !
+Perceval
+: Qu'est ce qui se passe ?
+Arthur
+: Revenez ! Dépêchez-vous bon dieu !
+On entend un bruit d'armure et on voit Yvain et Gauvain tous couverts d'une couche verdâtre.
+Yvain
+: Il nous a chié dessus !
+Arthur les regarde d'un air dégoûté.
+GENERIQUE
+Perceval
+: Non, faut pas vous faire de soucis. Ca peut arriver à tout le monde.
+Gauvain
+: Je crains d'avoir profondément déçu mon oncle.
+Yvain
+: Pour une fois qu'on part en mission.
+Perceval
+: C'est rien et croyez moi, il vaut mieux que ça vienne d'un dragon plutôt que d'un type qui a pas fait gaffe que vous étiez en train de pêcher au bas du pont à ce moment-là !
+Gauvain
+: Quoi ?
+Perceval
+: Oui, enfin ! Je me comprends !
+Rédigé par Heleaena pour HypnoseriesKaamelott

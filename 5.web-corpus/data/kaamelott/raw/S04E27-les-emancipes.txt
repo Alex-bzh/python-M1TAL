@@ -1,0 +1,127 @@
+Chambre d'Yvain. Dame Séli débarque, l'air furax.
+Séli:
+Bon vous allez finir par vous lever ou je vous fais sortir du lit par la garde?
+Yvain:
+Bon ça vaaa...
+Séli:
+Mais non ça va pas, maintenant que vous avez une place fixe à la Table Ronde vous n'escomptez tout de même pas être en retard!
+Yvain:
+Mais c'est bon j'ai le temps il me faut cinq minutes pour me préparer!
+Séli:
+Mais oui à condition de pas bouffer, pas se peigner, pas se laver et s'habiller avec ses fringues dégueues!
+Yvain:
+Bah s'habiller c'est en armure.
+Séli:
+En armure oui, elle est en Carmélide votre armure abruti, ça fait quinze jours que je vous dis d'aller la chercher parce que vous l'avez oubliée!
+Yvain:
+Oh mais c'est pas vrai!
+Séli:
+Mais si! Alors il faut vous trouver quelque chose de correct à vous mettre sur le dos!
+Yvain:
+Mais c'est obligatoire l'armure si je l'ai pas j'vais me faire tuer!
+Séli:
+Meuh non vous allez passer pour un crétin! Si ça avait dû vous tuer, vous seriez plus là depuis longtemps.
+Elle sort de la chambre, Yvain se lève en vitesse.
+***
+GENERIQUE
+***
+Autour de la Table Ronde.
+Léogadan:
+C'est pas vrai mais c'est pas vrai!
+Yvain:
+Ah non mais c'est bon pff...
+Père Blaise:
+Normalement je suis pas sensé accepter, ça!
+Arthur:
+Heu là non attention Yvain! Moi là tout de même je serais en droit de vous exclure de la réunion! Alors bon là ça va qu'on a un mot de votre mère qui me dit... Ah pff je sais plus ce qu'elle me dit...
+Yvain:
+Non mais c'est parce que j'ai oublié mon armure en Carmélide! Y a ma mère qui m'a filé ça d'accord, c'est trop pourri quoi ...
+Léodagan:
+Oublier son armure, je devrais vous coller au pain sec pendant six mois!
+Père Blaise:
+Surtout qu'il est à l'ordre du jour hein! Non mais franchement ça ressemble à quoi?
+Arthur:
+Bon de toute façon c'est comme ça on n'a pas le choix. Bohort s'il vous plait veuillez exposer le truc.
+Bohort:
+Heu nous avons essayé de trouver une mission d'ordre militaire pour les seigneurs Yvain et Gauvain, connaissant leur faible expérience en tactique la tâche n'a pas été...
+Calogrenant:
+Ouais ça a été une tannée ouais, vu qu'on peut pas vous confier une escorte ni une troupe à conduire ni une cartographie...
+Léodagan:
+Ouais c'est pas la peine de la ramener, y en a combien autour de cette table qui savent la cartographie?
+Hervé:
+Moi c'est ma première spécialité.
+Il sort une carte. Les chevaliers le fixent avec incompréhension et scepticisme.
+Perceval:
+Hé c'est quoi ça?
+Hervé:
+L'Ile de Bretagne. J'ai fait tout le tour deux fois pour être sûr.
+Silence gêné et incrédule.
+Arthur:
+Heuu bon Père Blaise vous énoncez la mission.
+Père Blaise:
+Bien. Les chevaliers Yvain et Gauvain devront assurer la relève d'un poste avancé, et y résider en garnison deux semaines durant pour assurer la surveillance du périmètre.
+Arthur:
+Voilà, mission somme toute assez simple hein,
+(Père Blaise fait les gros yeux)
+heu qui peut tout de même comporter quelques risques, moi je trouve que c'est une bonne idée, Yvain? Gauvain? Vous avez des questions?
+Gauvain:
+Oui mon oncle par rapport à la mission il y a quelques termes dont la signification m'échappe!
+Yvain:
+Ouais moi pareil, heuuu pour la garnison c'est ce qui est en plus de la viande dans un plat? Heu le périmètre je me souviens plus si c'est pour mesurer le tour de cuisse ou le tour de bras.
+Gauvain:
+Le tour de bras.
+Yvain:
+Le tour de bras?
+Gauvain:
+Oui. Mm.
+Yvain hoche la tête d'un air de connaisseur. Le Père Blaise a une expression catastrophée.
+***
+Yvain et Arthur sont à table.
+Arthur:
+Vous savez que la Bretagne c'est une ile?
+(Yvain ne comprend pas)
+. Vous le savez ou pas?
+Yvain:
+Oui mais ça change quoi?
+Arthur:
+Ca change quoi à quoi?
+Yvain:
+Ah heu nan je sais plus j'ai perdu le fil.
+Arthur:
+Bah donc comme la Bretagne c'est une ile les envahisseurs arrivent par là?
+Yvain le fixe sans répondre.
+Arthur:
+Ils arrivent par où les gens quand ils arrivent sur une ile?
+Yvain:
+Ils arrivent par milliers?
+Arthur:
+Non.
+Yvain:
+Ils arrivent par la... Bretagne.
+Arthur
+(exaspéré):
+Non ils arrivent par la mer.
+Yvain hoche la tête.
+Yvain:
+Ouais.
+Arthur:
+Donc on a fait installer sur tout le tour de l'ile, et un petit peu sous l'impulsion de votre père qui s'est montré particulièrement casse-couille avec ça, des postes de surveillance côtières.
+Yvain hoche la tête. Arthur tente de garder son calme.
+Yvain:
+Mais quel rapport avec la Bretagne? J'comprends pas.
+Arthur détourne le regard, découragé et consterné.
+***
+GENERIQUE
+***
+Yvain:
+Et si jamais y a des envahisseurs, qu'est-ce qu'on fait?
+Arthur:
+Ca dépend du poste où vous serez affecté. S'il est isolé, faut allumer un feu sur le sommet, et s'il fait partie d'une série de postes plus rapprochés, faut sonner la corne.
+Yvain:
+Moi ce que je trouve classe c'est que les envahisseurs attaquent pas les postes avancés.
+Arthur:
+Bien sûr qu'ils attaquent les postes avancés, c'est même la première chose qu'ils attaquent pour bloquer l'alerte.
+Yvain:
+Ah d'accord! Et c'est encore possible de refuser la mission ou c'est trop tard?
+***
+Rédigé par Aelis pour Kaamelott Hypnoseries

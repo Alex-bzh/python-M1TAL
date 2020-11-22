@@ -1,0 +1,153 @@
+EXTERIEUR, JOUR, CAMP DE LANCELOT
+Guenièvre est derrière la balustrade de la cabane. Elle appelle Lancelot. Loth, Ferghus et quelques hommes apparaissent au bas de la cabane.
+GUENIÈVRE :
+Lancelot, vite !
+LANCELOT :
+Quoi vite ?
+GUENIÈVRE :
+Vous avez une visite ! Le roi Loth !
+LANCELOT
+(derrière la balustrade)
+:
+Mais qu'est ce qu'il fout là ?
+LOTH
+:
+Il fout là qu'il est chez lui, et qu'il ferait beau voir qu'il se gène pour visiter un camp dont il a payé le moindre bout de bois.
+LANCELOT
+(montrant Karadoc)
+:
+Et… et lui qu'est ce qu'il fout là ?
+KARADOC :
+On va en reparler…
+LOTH:
+Je l'ai invité.
+LANCELOT :
+L'entrée du camp est interdite aux chevaliers de Kaamelott !
+LOTH :
+… aux chevaliers de Kaamelott, sauf ceux que j'invite.
+LANCELOT :
+Ah bon ?
+LOTH :
+Voilà ! Je suis désolé de montrer un peu les dents, mais je crois que vous aviez besoin d'une petite mise au point.
+***
+Ouverture
+***
+EXTERIEUR, CAMP DE LANCELOT, ENSUITE.
+Lancelot, Loth et Guenièvre se tiennent derrière la balustrade de la cabane. Karadoc, Galessin et Ferghus, en face, écoutent.
+LANCELOT :
+Pourquoi est-ce que vous avez amené celui-là ?
+(désignant Karadoc)
+LOTH :
+Je l'ai croisé sur le chemin. Il m'a raconté sa petite histoire, il vient récupérer sa femme. Ça m'a fait rire, alors…
+LANCELOT :
+Sa femme ? Qu'est-ce qu'elle ficherait là, sa femme ?
+GUENIÈVRE :
+Ben elle n'est pas à Kaamelott, sa femme ?
+KARADOC :
+Mais maintenant, ma femme c'est vous !
+GUENIÈVRE :
+Quoi ?
+LANCELOT :
+Quoi ?
+LOTH :
+Ah non, pardon. En fait, c'est ça qui m'a fait rire.
+GALESSIN :
+Il a échangé les épouses avec Arthur. Je vous avais pas dit ça ?
+KARADOC :
+Allez ! Envoyez madame Karadoc avant que je me fâche !
+LANCELOT :
+Vous voulez que je vienne vous botter le train ?
+KARADOC :
+Hé ben venez, je vous attend. Parce que moi, aujourd'hui, je repars pas sans ma femme !
+LOTH
+(arrêtant Lancelot d'un geste)
+:
+Restez tranquille ! Vous comptez tout de même pas tabasser mes invités ? Si ?
+LANCELOT :
+Quand ils prétendent m'engourdir ma promise ?
+GUENIÈVRE :
+Mais… je peux donner mon avis moi, aussi ?
+LOTH :
+Non. Je ne suis pas là pour ça. Réunissez tous les hommes, j'ai un discours à faire.
+LANCELOT :
+Quel discours ?
+LOTH :
+Vous verrez. Dépêchez vous !
+KARADOC :
+C'est ça, dépêchez vous ! Parce que vous avez encore une raclée à prendre.
+En face de la cabane, d'autres hommes ont rejoint Karadoc, Galessin et Ferghus. Tous attendent.
+LOTH
+(se tournant vers Guenièvre)
+:
+Non, je suis désolé, il y a pas de femmes aux discours militaires.
+Vexée, elle rentre dans la cabane.
+LOTH
+(à Lancelot)
+:
+Et vous, qu'est ce que vous faites ?
+LANCELOT :
+Quoi, moi aussi je suis une femme ? Faut que je me tire ?
+LOTH :
+Non mais qu'est ce que vous faites "là" ? Descendez avec les autres.
+Lancelot furieux rejoint les hommes en bas.
+GALESSIN
+(à Lancelot)
+:
+Laissez ! Ça sert à rien de s'énerver.
+KARADOC :
+Ouais, c'est ça. Gardez-le pour plus tard. Voleur de bonne femme !
+FERGHUS :
+Vous pouvez vous taire ? J'entends rien.
+LOTH :
+Mes chers camarades… Bon, juste une chose… c'est pas moi qui l'ai rédigé. Mettons que j'ai supervisé les grandes lignes. Donc, c'est un peu formel, vous vous alarmez pas, essayez de vous concentrer sur l'essentiel.
+FERGHUS :
+C'est vachement trop balaise pour moi, putain.
+KARADOC :
+Ouais pour moi aussi, mais c'est pas grave. Vous écoutez avec l'air un peu sérieux, ça passe tout seul.
+LOTH :
+Mes chers camarades… Bon voyez, déjà, "camarades"… bon… je fous jamais les bottines ici, on peut difficilement parler de camaraderie entre vous et moi.
+FERGHUS
+(à voix basse)
+:
+Sans déconner, s'il me pose une question, je suis super mal !
+KARADOC
+(à voix basse)
+:
+Non mais pour ça, il y a une combine : quand vous comprenez pas un mot vous…
+LANCELOT :
+Vous allez la fermer, oui ?
+GALESSIN :
+Allez-y, Sire.
+LANCELOT
+(à Galessin, appuyant chaque mot)
+:
+Gros lèche-pompes.
+LOTH :
+Mes chers camarades… Non j'aime pas. Il n'y a pas à tortiller du fion, j'aime pas. Je vais enchaîner, hein, mais, c'est là que je regrette de ne pas l'avoir lu d'un bout à l'autre.
+GUENIÈVRE
+(off, depuis la cabane)
+:
+Et ben votre discours, il est tout pourri !
+***
+Fermeture
+***
+EXTERIEUR, CAMP DE LANCELOT, PLUS TARD.
+LOTH :
+Et puisque Arthur est un ennemi du Graal, ne devons-nous pas combattre Arthur ? Heu, bon il y avait encore un "camarade" mais je le vire, il m'en ont foutu à toutes les sauces !
+KARADOC :
+Je dois combattre Arthur moi maintenant ? Mais, enfin je comprend rien à ce qu'il raconte…
+FERGHUS :
+Moi, pour pas m'endormir, j'essaie de l'imaginer avec des coupes de cheveux différentes. Ça marche bien.
+GALESSIN :
+Allez ! Mais écoutez ! Après vous saurez pas !
+LOTH :
+Bon il faut que je me fâche, ou bien ?
+***
+Noir
+***
+GUENIÈVRE
+(off, depuis la cabane)
+:
+Oh comment il est trop pourri, ce discours ! Ah !
+***
+Rédigé par Ubik3 pour Kaamelott Hypnoséries

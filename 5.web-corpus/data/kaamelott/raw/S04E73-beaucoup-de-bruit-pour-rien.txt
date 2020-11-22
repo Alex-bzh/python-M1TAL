@@ -1,0 +1,153 @@
+INTERIEUR, JOUR, SALLE A MANGER.
+ARTHUR déjeune avec PERCEVAL.
+PERCEVAL
+:
+Je peux vous poser une question ?
+ARTHUR :
+Ça me semble inévitable.
+PERCEVAL :
+Pourquoi il faut faire un vœu quand il passe une comète ?
+ARTHUR :
+Heu, je sais pas… c’est quand il passe une étoile filante déjà; c’est pas la même chose. Et puis je sais pas, c’est une tradition.
+PERCEVAL :
+Mais il faut changer de voeu ?
+ARTHUR :
+"Changer de vœu" ?
+PERCEVAL :
+Par rapport à avant.
+ARTHUR :
+Par rapport à l'étoile filante d'avant, vous voulez dire ?
+PERCEVAL :
+Non, non, non, non. Par rapport au vœu où il y a pas de comète.
+ARTHUR :
+Mais vous pensez à quoi comme vœu où il y a pas de comète ? Le machin avec les os de poulets là ?
+PERCEVAL :
+Je suis désolé hein. Je comprend rien à ce que vous dites
+.
+***
+Ouverture
+***
+INTERIEUR, SALLE A MANGER, ENSUITE.
+PERCEVAL :
+Je comprend pas. Quel est le rapport entre les comètes et les os de poulet ?
+ARTHUR :
+Les vœux. Le rapport c'est les vœux.
+PERCEVAL :
+(ne comprenant toujours pas, soufflant)
+Non, mais je sais bien que c'est moi hein. Même quand j'essaie de faire simple, ça passe pas.
+ARTHUR :
+Je suis désolé, mais sincèrement en plus… j'essaie de suivre et tout, mais...
+PERCEVAL :
+Non, mais si c'est à ce point là, j'arrête de parler et puis c'est tout. C'est encore ce qu'il y a de plus simple.
+ARTHUR :
+Ah si ! Si ça y est ! Ça y est, j'ai compris. Vous, vous parlez du vœu qu'on fait quand on est chevalier.
+PERCEVAL :
+Bah oui.
+ARTHUR :
+Voilà ! Non, ça n'a rien à voir avec le vœu des étoiles filantes.
+PERCEVAL :
+Ah bon ?
+ARTHUR :
+Non, le vœu des étoiles filantes, c'est un souhait, puis le vœu quand on chevalier, c'est plutôt une promesse, voyez ?
+PERCEVAL :
+Et ça s'appelle pareil ?
+ARTHUR :
+Et ça s'appelle pareil. Alors franchement c'est pas de votre faute.
+PERCEVAL :
+Donc le vœu des chevaliers, on le change pas à chaque comète ?
+ARTHUR :
+Non. Ah ben non, sûrement pas, non !
+PERCEVAL :
+D'accord. Parce que moi j'ai jamais trouvé de vœu. Et à chaque comète, je me disais qu'il fallait que j'en trouve un de plus. En fait, j'ai pas cinquante vœux de retard.
+ARTHUR :
+Mais non, non, pas du tout ! Et de toute façon, vous avez pas pu voir cinquante comètes. Ok ? Ce sont des étoiles filantes.
+PERCEVAL:
+Donc il m'en manque juste un ?
+ARTHUR :
+Voilà ! Non même pas, même pas. Parce que le vœu du chevalier est pas obligatoire. J'en ai pas fait moi par exemple.
+PERCEVAL :
+Ah bon ?
+ARTHUR :
+Si j'ai fait… si enfin en somme si, j'ai fait vœu de trouver le Graal quoi, hein.
+PERCEVAL :
+Et alors, ça avance ?
+ARTHUR :
+(sourire embarrassé)
+Non, pas génial, non.
+***
+EXTERIEUR, JOUR, DEVANT LA TAVERNE
+Karadoc et Perceval marchent vers la taverne.
+PERCEVAL :
+Je vais pas savoir vous re-expliquer mais c'est pas obligé de changer de vœu à chaque comète. On a juste besoin d'en trouver un.
+KARADOC :
+Mais puisqu'il vous a dit que c'était pas obligatoire d'avoir un voeu.
+PERCEVAL :
+Ouais mais c'est classe quand même, vous pouvez bien faire un petit effort.
+KARADOC :
+Ouais mais quoi alors ? Pas un truc chiant hein ?
+PERCEVAL :
+Ben on pourrait faire vœu de trouver le Graal mais c'est déjà pris.
+KARADOC :
+Ah bon c'est déjà pris ?
+PERCEVAL :
+Ben ouais, moi je croyais qu'on avait pas le droit de le prendre, que c'était pour tout le monde. Pis non, c'est pris.
+KARADOC :
+Ben alors, quoi d'autre comme vœu ?
+PERCEVAL :
+Y'en a un, c'est vœu de chasteté.
+KARADOC :
+Ben il faut faire quoi ?
+PERCEVAL :
+Je sais pas. Heu, c'est pas en rapport avec la chasse ?
+KARADOC :
+Ah ben non alors !
+PERCEVAL :
+Ouais, moi aussi ça me gonfle. Faut se lever en pleine nuit pour préparer le matériel, non c'est pourri.
+KARADOC :
+(Soudain inspiré)
+Vœu de ragout…
+PERCEVAL :
+"Vœu de ragout" heu. Ouais c'est pas mal, mais je saurais pas bien comment…
+KARADOC :
+Ouais, moi non plus.
+PERCEVAL :
+Sinon il y a vœu de silence.
+KARADOC :
+Attendez c'est hyper dur, comment on fait pour se faire comprendre ?
+PERCEVAL :
+Bah ce qu'on fait, on essaie une journée et pis on regarde si ça nous empêche de faire des trucs qu'on a besoin.
+KARADOC :
+A l'essai quoi ?
+PERCEVAL :
+Voilà !
+Perceval fait un signe de tête en direction de l'auberge. Karadoc fait oui de la tête.
+PERCEVAL :
+(chuchotant)
+Merde mais ça marche !
+KARADOC :
+Chuut !
+PERCEVAL :
+Ah pardon…
+Ils refont les mêmes gestes et entrent dans la taverne.
+***
+Fermeture
+***
+INTERIEUR. DANS LA TAVERNE, ENSUITE.
+Karadoc et Perceval, assis à table, se font des signes et semblent désolés de n'être pas servis.
+LE TAVERNIER :
+Ils consomment quelque chose les héros ou ils mesurent les pieds de table ?
+Perceval fait le signe de boire avec son pouce.
+LE TAVERNIER :
+Allez et deux casse pattes !
+LE TAVERNIER :
+Ils veulent de quoi faire des tartines pour couper le liquide?
+Karadoc dos tourné à la cuisine fait oui de la tête, Perceval transmet le même geste au tavernier.
+LE TAVERNIER :
+Allez, ça marche !
+Surpris et satisfaits Karadoc et Perceval sourient.
+Puis Karadoc fait un signe d'attente avec son index levé…
+***
+Noir
+***
+… et il pète.
+Rédigé par Ubik3 pour Kaamelott Hypnoséries

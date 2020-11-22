@@ -1,0 +1,149 @@
+Perceval armé d'un chandelier, vient réveiller Arthur.
+Arthur
+: Qu'est-ce qui se passe ?
+Perceval
+: Rien de grave Sire.
+Arthur
+: Rien de grave ? non mais vous vous rendez compte de l'heure qu'il est, espèce de gros taré ?
+Perceval
+: J'arrive pas à fermer l'œil !
+Arthur
+: Moi si !
+Perceval
+: C'est à cause de la mission de demain.
+Arthur
+: pfff, Oui, ben bon oui, on a toujours un peu de mal à dormir avant de partir en mission. Vous êtes nerveux ?
+Perceval
+: Non, j'ai les jetons.
+Arthur
+: pfff, ne vous inquiétez pas, ça se passera bien.
+Perceval
+: Juste que Karadoc et moi, avec tous ces morts-vivants, sans blague, je suis pas rassuré.
+Arthur
+: Mais qu'est-ce que vous voulez que j'y fasse, moi ?
+Perceval
+: Ben justement, je me disais un truc : si vous vous levez maintenant et vous préparez vos affaires, vous aurez le temps de partir avec nous.
+***
+GENERIQUE
+***
+Arthur
+: Vous pouvez pas vous démerder ?
+Perceval
+: Allez Sire, c'est la dernière fois !
+Arthur
+: Mais chaque fois, c'est la dernière fois ! Vous êtes pas foutus de faire un truc sans moi !
+Perceval
+: La dernière fois qu'on est partis tous seuls, vous avez piqué une crise parce qu'on a rien ramené.
+Arthur
+: Non mais j'ai pas dit que je viendrai toujours avec vous pour autant !
+Perceval
+: Juste cette fois, comme ça vous nous montrez les ficelles.
+Arthur
+: Mais j'en ai marre de vous montrer des ficelles ; de toutes façons vous pigez jamais rien.
+Perceval
+: Attendez, j'ai compris, là : c'est pas des vrais ficelles pour attacher. Allez, Sire !
+Arthur
+: Non !
+Arthur referme sa porte au nez de Perceval.
+Perceval
+: Allez, Sire, si vous venez pas on va décéder !
+***
+Karadoc
+: C'est vraiment sympa d'être venu, Sire !
+Perceval
+: Vous vous rendez pas compte, quand vous êtes là on fait vachement de progrès. Nous, avant, on se mettait pas l'un derrière l'autre, on progressait pas.
+Arthur
+: Comment ?
+Karadoc
+: C'est pas ça que vous avez dit tout à l'heure ?
+Arthur
+: Qu'est-ce que j'ai dit ?
+Perceval
+: Vous avez dit : on progresse l'un derrière l'autre. Nous, on savait pas !
+Karadoc
+: D'habitude, on se mettait côte à côte comme des cons.
+Perceval
+: Du coup, on progresse jamais !
+Arthur
+: Progresser, ça veut dire avancer.
+Perceval
+: Oui, c'est ce que je dis, on avance jamais parce qu'on est pas l'un derrière l'autre. Attendez c'est comme le coup du château hanté, en fait, ça a rien à voir avec la forme du château.
+Karadoc
+: Ah mais vous aussi vous aviez compris ça ?
+Perceval
+: Oui, oui ; sauf depuis ce matin, vous avez dit c'est un château en L, donc là château en T, c'est pas la forme ! Et hop, du coup, on progresse l'un derrière l'autre.
+Karadoc
+: C'est hyper important que vous veniez avec nous, Sire !
+Arthur
+: C'est aussi hyper important que vous finissiez un jour par vous démerder sans moi.
+Perceval
+: Ca va venir, Sire, il faut pas trop vous impatienter.
+Karadoc
+: Rendez vous compte des progrès qu'on a fait déjà.
+Arthur
+: Des progrès, dans quelle matière ?
+Perceval
+: Parce qu'il faut progresser dans de la matière ? Oh putain, c'est fou ça !
+Karadoc
+: Et voilà!
+Perceval
+: Encore un truc qu'on savait pas, parce que nous jusqu'à aujourd'hui, on marchait de côté, il faut bien comprendre ça, et là, tac, l'un derrière l'autre, dans de la matière.
+Karadoc
+: C'est un vrai bond en avant !
+Perceval
+: Et là, c'est pareil, un bond en avant ! Il y a quelques années, on aurait sautillé. C'est vrai ou pas ?
+Karadoc
+: Mais bien sûr ! y'a pas de honte, on savait pas.
+Perceval
+: Maintenant, c'est bon, on a pigé. C'est une métaphore !
+Athur, éberlué, roule de grands yeux.
+Arthur
+: Oh ! De quoi ?
+Perceval
+: C'est pas ça ?
+Karadoc
+: Non, Métaphore c'est pas une famille qui est dans le besoin et qui refuse de l'aide par fierté ?
+Arthur
+: J'ai oublié !
+Perceval
+: Non, mais c'est un des deux en tout cas.
+Arthur
+: Attendez, attendez, qu'est-ce que vous entendez exactement par métaphore ?
+Perceval
+: Métaphore, c'est un truc il faut pas faire ce que ça dit ! Par exemple : faire un bond en avant, je sautille pas ! Envoyer promener quelqu'un : il faut pas qu'il parte trop loin. Monter à l'assaut, en fait c'est pareil. Je bouge pas.
+Karadoc
+: Ah, Sire, y'a un truc que je voulais vous demander.
+Perceval
+: Moi aussi.
+Karadoc
+: Les morts-vivants,
+Perceval
+: Ah oui, ça c'est bien !
+Karadoc
+: Les morts-vivants ,c'est ou l'un ou l'autre ?
+Arthur
+: Non, les morts-vivants, c'est les deux à la fois.
+Devant leur incompréhension manifeste, Arthur fait marche arrière.
+Arthur
+: Je... Euh... je vais pas vous l'expliquer aujourd'hui, ça, hein ? parce que vous avez déjà fait beaucoup de progrès.
+***
+GENERIQUE
+***
+Devant le trésor de la crypte.
+Karadoc
+:
+C
+'est quand même beau.
+Perceval
+: Même si c'est vous qui avez tout fait, Sire, nous de notre côté, on progresse.
+Arthur
+: Mais non, ça va, je sais.
+Karadoc
+: Et les morts-vivants que vous avez tués, ils étaient morts ou vivants ?
+Arthur
+: Ils étaient morts et vivants. Bon, de toutes façon je vous l'expliquerai pas aujourd'hui, n'insistez pas, alors, fuitttttt, prenez le pognon, on s'en va.
+Karadoc
+: Ah non, Sire, on préfère vous regarder faire.
+Perceval
+: Comme ça, on comprend les ficelles.
+Rédigé par Mamynicky pour Kaamelott Hypnoseries

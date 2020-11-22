@@ -1,0 +1,97 @@
+Arthur est allongé sur la pelouse, Karadoc le rejoint et s'allonge à côté de lui.
+Karadoc:
+Sire.
+Arthur:
+Hein? Qu'est-ce qu'il y a ? qu'est-ce qu'il se passe ?
+Karadoc:
+Il faut que je vous parle, c'est important.
+Arthur:
+Ah ben allez-y je vous en prie. Je dormirai ce soir.
+Karadoc:
+J'arrive pas bien à voir clair … Depuis qu'on a échangé nos épouses, je suis pas dans mon assiette.
+Arthur:
+Qu'est-ce qu'il y a qui va pas ?
+Karadoc:
+C'est ma nouvelle femme, Guenièvre, j'avoue, j'arrive pas bien à la cerner.
+Arthur:
+Mais vous avez réussi à la voir Guenièvre depuis qu'on a fait l'échange?
+Karadoc:
+Ah bah non, au camp de Lancelot ils veulent pas me laisser rentrer.
+Arthur:
+Vous l'avez même pas croisée?
+Karadoc:
+Non.
+Arthur:
+Vous croyez pas que c'est un peu pour ça que vous avez du mal à la cerner?
+Karadoc:
+Ca aide pas, c'est sûr ...
+* * *
+GENERIQUE
+* * *
+Karadoc:
+En fait, c'est ma femme, mais je la connais presque pas.
+Arthur:
+Si ça peut vous rassurer, quand je l’ai épousée, je la connaissais pas non plus.
+Karadoc:
+Parlez-moi un peu d'elle.
+Arthur:
+Heu non, merci ça va j'y tiens pas.
+Karadoc:
+Ah bah soyez chouette ! Ses petites habitudes …
+Arthur:
+Ses petites habitudes, est-ce que je sais !
+Karadoc:
+Elle avait bien une occupation ?
+Arthur:
+Bah me gonfler déjà, ça, ça lui prenait un temps considérable. Et puis si, elle, elle brodait des motifs.
+Karadoc:
+Ah voilà, j'en étais sûr que c'était une artiste.
+Arthur:
+C'était la gerbe ses machins, elle me faisait un marque-page tous les trois jours, résultat j'ai douze fois plus de marque-page que de bouquins.
+Karadoc:
+A votre avis, qu'est-ce qu'il faut que je fasse pour que ce con de Lancelot me rende ma femme ?
+Arthur:
+Ca je ne saurais pas vous dire, d'autant que si j'étais à votre place, je me demanderais ce qu'il faut que je fasse pour qu'il la garde.
+* * *
+Perceval les a rejoints.
+Karadoc:
+Ouais mais vous, sentimentalement, vous savez que vous assumez. Et ça c'est capital.
+Perceval:
+Ouais mais c'est pas pour ça que j'ai pas mes problèmes. Attention.
+Karadoc:
+Nan mais des problèmes tout le monde en a. Moi j'arrive même pas à récupérer ma bonne-femme.
+Perceval:
+Sire, franchement mon histoire avec Angharad, vous pensez pas que c'est au point mort en ce moment.
+Arthur:
+J'en ai pas grand-chose à carrer pour rien vous cacher.
+Perceval:
+Non mais Sire, dîtes-moi, soyez sympa.
+Arthur:
+Mais ça fait dix ans que ça dure votre histoire, vous vous êtes même pas fait une bise sur le front. N'allez pas me demander si c'est au point mort. C'est plombé, ensablé, emmuré jusqu'au trognon votre truc voilà.
+Perceval:
+Ouais moi aussi c'est l'impression que ça me fait.
+Karadoc:
+Je vous l'ai toujours dit, ça ne demande qu'a devenir le beau truc. Il manque juste le petit coup de pouce.
+Perceval:
+Je sais, c'est pour ça, je baisse pas les bras.
+Karadoc:
+Des fois, il suffit de pas grand-chose pour que ça décolle.
+Perceval:
+Faut pas être défaitiste. Vous, vous avez tendance à garder en dedans. Non, non, non, il faut parler pour sortir tout ce qui est coincé ! Sinon c'est pas bon.
+Karadoc:
+Tenez, regardez il y a Angharad qui arrive. Allez-y, profitez-en. Mettez les choses à plat une bonne fois pour toute.
+Perceval:
+Non, non, non. Attendez ça va durer huit jours. Non, non, non, une autre fois. Venez on se casse.
+Ils s'en vont, Arthur pense qu'il va être enfin tranquille.
+* * *
+GENERIQUE
+* * *
+Angharad est allongée à côté d'Arthur.
+Angharad:
+Je ne cacherai pas à Monsieur que de mon côté, j'ai pas un caractère facile. Mais avec le Seigneur Perceval, c'est pas Monsieur qui me contredira, si on parle en premier parce que c'est un homme sensible qui est surtout centré sur l'écoute.
+Arthur:
+Attendez, vous étiez pas censée bosser au camp de Lancelot vous ?
+Angharad:
+Ouais, nan mais non... Je suis venue chercher des affaires pour Madame. Tenez ça c'est pareil ça, l'énergie que je suis capable de fournir dans le cadre professionnel, hé ben je la retrouve pas quand il s'agit de faire quelque chose pour me sortir d'une impasse émotionnelle.  Voyez ? Nan d'ailleurs je pose la question à Monsieur, est-ce que Monsieur pense que mon histoire avec le Seigneur Perceval est au point mort en ce moment?
+***
+Rédigé par chris52 pour Kaamelott Hypnoseries

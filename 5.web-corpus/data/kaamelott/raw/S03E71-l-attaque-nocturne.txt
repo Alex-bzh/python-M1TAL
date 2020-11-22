@@ -1,0 +1,124 @@
+Lancelot est devant la porte de la chambre d’Arthur.
+Arthur
+: Lancelot ? Qu’est-ce qui se passe ?
+Lancelot
+: Les gardes du chemin de ronde ont l’impression qu’une troupe s’approche du rempart est.
+Arthur
+: Comment ça « ont l’impression » ?
+Lancelot
+: Ils pensent qu’ils ont vu une colonne de torche à 20 ou 25 lieues mais c’est furtif.
+Arthur
+: Alors qu’est-ce qu’on fait ?
+Lancelot
+: Ben je vais voir là-haut, si je sens qu’il y a rien je vous laisse dormir sinon je reviens vous voir.
+Arthur
+: D’accord.
+Lancelot s’en va.
+Arthur
+: Euh attendez attendez euh.
+Lancelot
+: Sire ?
+Arthur
+: Vous auriez pas eu meilleur compte d’aller voir d’abord et de venir me réveiller après du coup ?
+Lancelot
+: Si.
+Arthur
+: Oui voilà. C’est ça.
+***
+Générique
+***
+Arthur
+(
+à Léodagan
+) : C’est vous ? Mais qu’est-ce que vous foutez là ?
+Léodagan
+: Mais je suis désolé mais les gars du pont levis sont inquiets, ils ont l’impression qu’il y a une troupe qui approche.
+Arthur
+: Hé ben oui, qu’est-ce qu’il dit Lancelot ?
+Léodagan
+: Qu’est-ce qu’il dit à propos de quoi ?
+Arthur
+: De la troupe.
+Léodagan
+: Ben qu’est-ce que je sais moi je l’ai pas vu Lancelot.
+Arthur
+: Attendez, il parait qu’il est monté sur le chemin de ronde pour vérifier qu’il y avait pas une troupe en approche.
+Léodagan
+: Oui mais moi je vous dit, nan mais écoutez bon dieu, c’est les gars du pont levis qui sont venus me trouver.
+Arthur
+: Nan mais attendez les gars mais faite un effort quand même, vous pourriez coordonner les infos entre la ronde et le pont levis.
+Léodagan
+: Ben les gardes de la ronde sont sous les ordres de Lancelot et les gars du pont levis sont sous les miens.
+Arthur
+: Mais bien sûr vous pouvez pas parler juste avec Lancelot.
+Léodagan
+: Oh non mais causer causer. Non mais c’est votre truc à vous ça hein, faudrait toujours être en train de tailler le bout de gras.
+Arthur
+: Mais enfin entre le chemin de ronde et le pont levis c’est pas des milices privées bon dieu ! C’est la même armée ils ont trois escaliers de distance !
+Léodagan
+: Hé qui les coltine les escaliers c’est vous hein ?
+Arthur
+: Pffff bon écoutez, vous m’emmerdez, alors allez voir Lancelot et puis vous lui demandez si oui ou non il y a une troupe qui s’approche.
+Léodagan
+: D’après les gars du pont levis faudrait…
+Arthur
+: Mais c’est au mec des chemins de ronde qu’il faut demander enfin ! ils sont plus haut ils ont peut être une meilleure vue ! c’est quand même à ça que ça sert d’ailleurs un chemin de ronde.
+Léodagan
+: Non non bon ben je m’en occupe euh…
+Arthur
+: Voilà c’est ça et euh attendez juste une chose, la prochaine fois que vous avez un doute comme ça, soyez sûr qu’on est attaqué et après vous venez me réveiller.
+Léodagan
+: Nan mais pourquoi je suis venu là moi ? Pour vous prévenir que si jamais ça se confirme, et ben je vais être obligé de venir vous réveiller hein ?
+***
+Arthur
+: Maitre d’arme c’est vous qu’est-ce que vous foutez là ?
+Maitre
+d’arme
+: Vous voulez dire là au château ou là dans le couloir ?
+Arthur
+: Je sais pas là.
+Maitre d’arme
+: Ben au château parce que je suis arrivé hier pour préparer le tournois d’après demain et dans le couloir parce que le garde de la tour de guet est venu me trouver et il est inquiet.
+Arthur
+: Tiens donc !
+Maitre d’arme
+: Oui. Il n’est pas sûr. Il croit distinguer une troupe qui progresse furtivement en direction du rempart est.
+Arthur
+: Vous n’avez évidemment croisé personne, Lancelot, Léodagan…
+Maitre
+d’arme
+: Vous voulez dire ces jours-ci ?
+Arthur
+: Est-ce que je pourrais savoir pourquoi le type de la tour de guet viens vous voir spécialement vous ?
+Maitre
+d’arme
+: Sire, c’est un de mes anciens disciples euh… un jeune homme plein de bonne volonté qui a toujours fait montre d’une solide motivation, bon il savait que j’étais là, faut le comprendre euh loin de lui l’idée de contourner la hiérarchie.
+Arthur
+: Oui c’est très bien. Je vais juste vous expliquer une petite chose. Camelot, du point de vue de la surveillance c’est pas très compliqué. Vous avez un pont levis, vous avez un chemin de ronde qui fait tout le tour du bazar, vous avez une tour de guet à chaque angle, vous avez un micheton perché sur le donjon et pour tout le reste ce sont des postes avancés un peu dans toute les directions qui sont censés allumer des feux au cas où il y aurait quelque chose. Vous allez consulter tout ça, vous allez me faire une sorte de petit bilan et si jamais vous décidez qu’il y a matière à se secouer les miches alors là pfiou vous venez me réveiller d’accord ?
+Maitre
+d’arme
+: Parce que là vous allez vous recouchez ?
+Arthur ferme la porte.
+Maitre
+d’arme
+: Parce que moi je suis ravi de vous rendre service  mais je vous rappelle que ce n’est pas ma fonction la surveillance !
+***
+Générique
+***
+Porte de la chambre du roi.
+Léodagan
+: Et au pont levis ils disent qu’on voit plus rien. Alors on est sortis d’affaire.
+Lancelot
+: Ben oui mais sur le chemin de ronde ils disent que par sécurité il faudrait envoyer des éclaireurs.
+Léodagan
+: Bon ben euh…qu’est-ce qu’on fait ?
+Maitre d’arme
+: Bonsoir bonsoir. Alors, je suis monté à la tour de guet, moi personnellement je dois bien avouer que je n’ai rien vu.
+Léodagan
+: Qu’est-ce que vous êtes aller foutre sur la tour de guet vous ?
+Maitre d’arme
+: Comme je l’expliquais tantôt à notre Sire Arthur…
+Arthur ferme la porte.
+Maitre d’arme
+: Ah, alors quoi, on retourne se coucher ?
+Rédigé par Sabricotte pour Kaamelott Hypnoseries

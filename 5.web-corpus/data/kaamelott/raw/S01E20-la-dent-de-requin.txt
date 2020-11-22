@@ -1,0 +1,160 @@
+Perceval est dans un couloir, devant la porte du labo de Merlin. Bohort arrive.
+Bohort
+: Bah, Seigneur Perceval, qu'est-ce que vous faites ? C'est le laboratoire de Merlin !
+Perceval
+: C'est lui qui m'a dit de venir chercher un truc.
+Bohort
+: Vous avez pas peur de rentrer là dedans ?
+Perceval
+: Oh vous savez, moi je rentre je sors, hein.
+Bohort
+: Bon, comme vous voulez.
+Bohort s'en va, mais lui dit quelque chose en partant.
+Bohort
+: Faites attention aux serpents en liberté quand même !
+Perceval referme aussitôt la porte.
+Générique
+Arthur, Lancelot, Léodagan, Merlin et Kay sont dans la forêt et regardent une bataille.
+Lancelot inquiet
+: Sire, on peut plus attendre, il faut lancer le sort ou battre en retraite!
+Merlin
+: Je peux pas lancer le sort sans ma dent de requin.
+Léodagan
+: Mais qu'est-ce qu'ils foutent les deux cons avec cette dent de requin, ça fait d'jà 4 heures qu'ils sont partis !
+Arthur
+: Bah ils vont sûrement arriver...
+Kay
+: Personne à l'horizon, Sire !
+Arthur à Merlin
+: Ils ont ptet du mal à trouver la dent dans votre laboratoire, c'est tellement le merdier aussi...
+Merlin
+: 2ème étagère droite à côté du bouquin sur la classification des invertébrés !
+Léodagan
+: Mais ils savent pas lire, ils risquent pas de retrouver un bouquin !
+Merlin
+: Toute façon une dent de requin y'en a qu'une au labo, au bout de deux minutes ils trouvent.
+Lancelot
+: Sire, je fais sonner la retraite ? On va pas se faire trucider 10 hommes à la minute pour une dent de requin !
+Arthur à Merlin
+: Vous êtes sûr qu'il vaut le coup votre sort ?
+Merlin
+: Oui, mais il faut la dent.
+Arthur après un moment
+: Alors on attend encore un peu.
+Les autres n'ont pas l'air du même avis que le Roi, Lancelot soupire.
+***
+Perceval et Karadoc sont assis à une table de la taverne.
+Perceval
+: Allez, une ptite en vitesse et on y va, ils vont nous attendre.
+Tavernier
+: Qu'est-ce qu'on leur met à nos héros ?
+Karadoc souriant
+: Deux cidres.
+Tavernier
+: Eh ben, deux jus de pommes qui piquent, ça marche !
+Il voit la dent de requin posée sur la table.
+Tavernier
+: Oh, qu'est-ce que c'est s'machin, là ?
+Perceval
+: Une dent de requin, y parait.
+Tavernier
+: Une dent de r'quin ? Qu'est-ce vous fabriquez avec ça ?
+Karadoc
+: C'est rapport à la magie.
+Perceval prend la dent et la regarde.
+Perceval
+: Vous vous rendez compte de la taille des chicos ? Ca doit lui faire un four comme ça au machin.
+Il mime la bouche du requin.
+Tavernier
+: Pourquoi vous vous baladez avec ça ?
+Karadoc
+: On la ramène à l'Enchanteur, il parait qu'ils doivent faire une incantation avec ça, un sort de... de j'sais plus quoi...
+Se tourne vers Perceval, l'air interrogateur.
+Perceval
+: Il veut attirer le mauvais oeil sur les ennemis d'en face.
+Tavernier
+: Ouais, un genre de malédiction ?
+Perceval
+: Ouais voilà.
+Tavernier
+: Donc, c'est une dent maudite.
+Karadoc
+: Non, c'est une dent... Eh, j'en sais rien moi !
+Perceval jette aussitôt la dent sur la table, et tous la regardent, inquiets.
+Perceval
+: Merde... Si ça s'trouve on est en train de s'attirer le mauvais oeil, là !
+Karadoc
+: Eh... c'est pour ça qu'ils nous ont envoyés nous !
+Tavernier
+: Et pourquoi vous ?
+Perceval
+: On nous envoie jamais nulle part ! Soi disant qu'on est des manches, et là comme par hasard, y'a une saloperie maudite à ramener, c'est pour notre pomme !
+Karadoc s'énervant
+: Je trouve qu'on nous prend un peu trop souvent pour des cons en ce moment !
+Perceval sur le même ton :
+Ouais, allez patron, mettez moi ça à cramer dans la cheminée, vous serez gentil ! J'veux plus la voir cette vacherie !
+Tavernier
+: Ah non, j'touche pas à ça moi !
+Perceval
+: Allez allez allez !
+Le tavernier soupire, puis se résigne. Il prend deux cuillères qu'il avait à la ceinture, puis saisit la dent de requin avec.
+Tavernier
+: Vous allez pas le regretter, hein ?
+Perceval
+: Qu'ils s'débrouillent avec leur malédiction ! J'suis pas transporteur d'dents, moi !
+Le tavernier s'en va, et les deux compères se regardent, l'air satisfait.
+***
+Dans la forêt. Merlin est en train de manipuler quelque chose.
+Arthur impatient
+: Alors, ça vient ?
+Merlin
+: Une seconde ! Manipuler une dent de furet ou une dent de requin c'est pas tout à fait la même chose !
+Léodagan surpris
+: Une dent de furet ?
+Merlin
+: Oui bah j'ai pris c'que j'ai trouvé figurez vous ! Estimez-vous déjà heureux que j'sois tombé sur un furet mort, et que j'ai réussi à lui enlever les chicos sans gerber.
+Arthur
+: Mais arrêtez de discutailler et lancez ce sort !
+Lancelot
+: On a presque plus d'hommes !
+Kay
+: Sire, les troupes ennemies se reforment !
+Arthur
+: Allez, magnez vous le train !!
+Merlin agacé
+: Zut !
+Léodagan
+: Allez allez allez !
+Le druide continue de manipuler la dent en faisant des gestes, puis une auréole magique se forme autour de sa main. La dent se met à flamboyer et une sorte de petite fumée part en face d'eux dans un bruit de ballon gonflable qui se dégonfle.
+Arthur
+: Mais qu'est-ce que c'est ce sort de merde ?!
+Merlin énervé
+: C'est pas la bonne dent !
+Kay
+: Sire ! L'ennemi est désorienté !
+Léodagan
+: Mais comment ça s'fait ?
+Lancelot
+: Ils se marrent, il sont en train de s'payer nos têtes !
+Arthur
+: Bon alors il faut en profiter ! Parce que là c'est la dernière !
+Lancelot
+: Appel !
+Kay prend sa corne et souffle dedans, tous les autres froncent les sourcils en entendant le bruit.
+Générique fin
+Arthur est au lit avec Guenièvre.
+Guenièvre
+: Vous avez gagné votre bataille aujourd'hui ?
+Arthur
+: Oui.
+Guenièvre
+: Ca a pas été trop dur ?
+Arthur blasé
+: Nouvelle technique, on passe pour des cons, les autres se marrent, c'est nouveau.
+Guenièvre
+: Et c'est répandu ça comme technique ?
+Arthur
+: Ah non, ça c'est que nous. Parce qu'il faut être capable de passer pour des cons en un temps record.
+Arthur (voix off)
+: Ah non, là dessus on a une avance considérable.
+Rédigé par Aelis pour HypnoseriesKaamelott

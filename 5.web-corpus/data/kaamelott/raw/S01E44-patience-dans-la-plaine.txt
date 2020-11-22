@@ -1,0 +1,173 @@
+Arthur est dans le lit de Demetra.
+Arthur
+: Vous savez qu'c'est demain la grande bataille contre les Saxons.
+Demetra
+: Ah oui ?
+Arthur
+: Mmm. On part à l'aube.
+Demetra
+: Très bien.
+Arthur
+: On sait pas si on va être de taille.
+Demetra
+: Ah bon ?
+Arthur
+: Non. On sait même pas si on va revenir...
+Demetra
+: C'est la guerre ça...
+Arthur
+(soupire) :
+Enfin j'suis content qu'ça vous panique pas déjà...
+GENERIQUE
+Dans la forêt, en hauteur. Arthur, Léodagan et Karadoc sont en armure, entourés de soldats.
+Arthur
+: Qu'est-ce qui foutent ces cons de Saxons ?
+Léodagan
+: J'croyais qu'ils devaient être là à l'aube.
+Karadoc
+: Même qu'hier on a dit qu'avant l'repas la bataille serait bouclée !
+Léodagan
+: On est partis en pleine nuit pour être là à temps, on a tout le matos et les ennemis sont pas là... merde quoi.
+Arthur
+: 'Tendez, moi j'ai dit qu'ils seraient là à l'aube comme j'aurais dit autre chose...
+Léodagan
+: Vous auriez pu vous mettre au jus un peu mieux qu'ça...
+Arthur
+: Mais c'est des estimations ! Les éclaireurs ont dit qu'ils avaient passé la frontière dans la nuit d'avant-hier, bon bah voilà, un jour et demi de marche j'suis désolé, ils auraient dû être là à l'aube.
+Karadoc
+: Ptet qu'ils se sont perdus, après tout ils sont loin de chez eux...
+Léodagan
+: C'est les éclaireurs qu'on picolé ouais...
+Karadoc
+: En tout cas ils sont pas là.
+Kay
+(le sonneur)
+: Sire, nos hommes ont commencé à manger leurs rations du soir !
+Karadoc
+: Quoi ??!
+Arthur
+: Nan... Ah si !! Ils ont sortis les gamelles ceux-là !
+(criant aux soldats)
+Oh ! Eh !! Ouais nan bah c'est p'tet exagéré nan ??
+Kay
+: Ils vous entendent pas.
+Karadoc
+: Bah ils bouffent eux !
+Arthur
+(à Kay) :
+Donne un coup d'tutute toi !
+Kay sonne la corne, les autres font la grimace.
+***
+Plus tard...
+Les chevaliers en sont toujours au même point. Ils ont allumé les torches et Karadoc est en train de manger.
+Arthur
+: C'est quand même pas ma faute à moi si j'ai l'armée la plus indisciplinée d'toute l'histoire martiale !
+Léodagan
+: Oh ils sont pas indisciplinés, ils sont très cons, mais c'est pas des mauvais gars.
+Arthur
+: Mais on s'arrache les cheveux à leur instruire des postures d'attente, résultat, ils cassent la graine au milieu du champ d'bataille !
+Léodagan
+: Mais c'est pas encore un champ d'bataille y a pas d'ennemis.
+Karadoc
+: Déjà !
+Arthur
+: Mais heureusement qu'y a pas d'ennemis ! Parce que mettons qu'ils s'pointent maintenant, ils tombent sur une fine équipe hein ! Deux mecs sur trois en train d'pique-niquer dans l'herbe !
+Léodagan
+: Mais laissez les bouffer qu'est-ce que ça peut vous faire ?
+Karadoc
+: Bien manger c'est important.
+Arthur
+: Alors en somme y a que moi qu'ça chagrine !
+Léodagan
+: Qu'est-ce qui vous chagrine ?
+Arthur
+: Nos troupes d'élite en train d'gameller ça ressemble à quoi ?! Si ça continue comme ça dans un quart d'heure ils feront griller des côtelettes peut-être !
+Kay
+: Sire, nos hommes commencent à allumer des feux.
+Léodagan
+: Mais c'est vrai ça qu'est-ce qu'ils foutent ?
+Arthur
+: Tiens mais ils font c'que j'vous ai dit !
+Léodagan
+: Ben non c'est pas forcément des côtelettes...
+Kay
+: Je crois que c'est d'la volaille Sire.
+Karadoc
+: Mi-coquelet, farandole de champignons.
+Arthur
+: Bon allez fait marcher ton tsoin-tsoin toi !
+Léodagan
+: Mais qu'est-ce que vous faites ?
+Arthur
+: Je sonne l'alerte !
+Léodagan
+: Mais pour quoi faire faut sonner l'alerte y a pas d'ennemis !
+Arthur
+: Ca les mettra p'tet au garde à vous.
+Léodagan
+: Garde à vous pour quoi y a personne ?
+Arthur
+(énervé) :
+Au cas où y aurait quelqu'un qui s'pointe que ça ressemble à quelque chose ! Allez souffle !
+Kay sonne la corne.
+Arthur
+: Drapaux rouges et noirs en V.
+Kay s'exécute.
+Arthur
+: Eh ben mais ils foutent rien !!
+Karadoc
+: Ils ont pas compris le code.
+Léodagan
+: Ils comprennent jamais le code.
+Kay
+: Bon on fait quoi ?
+Léodagan
+: P'tet que si on sonne l'heure de la bouffe, ils vont s'mettre en formation.
+***
+Plus tard...
+Ils sont tous en train de manger.
+Léodagan
+: Vous direz c'que vous voudrez, c'est quand même pas normal que les Saxons soient pas là.
+Arthur
+: La rivière est montée d'quatre mètres à c'qui parait, ils ont p'tet fait un détour pour traverser à guet.
+Karadoc
+: Toute façon à cette heure-ci ils se sont arrêtés pour manger.
+Léodagan
+: Bon ben qu'est-ce qu'on fait si ils arrivent pas ?
+Arthur
+: Ils vont arriver les éclaireurs sont formels !
+Léodagan
+: Ecoutez on attend encore une heure ou deux puis on met les bouts, ça va bien maintenant...
+Kay
+: Sire ! 50 cavaliers nord/nord-ouest !
+Léodagan
+: Ah bah ça y est là c'est eux !
+Karadoc
+(mange un jambon entier)
+: Mince j'ai pas fini !
+Arthur
+: Nan nan nan nan attendez nord/nord-ouest c'est Calogrenant j'lui avais dit d'venir en renfort.
+Karadoc
+: C'est Calogrenant ça ?
+Léodagan
+: Des renforts ? Qu'est-ce qu'vous voulez qu'on en foute ?
+Arthur
+: Bah j'avais prévu large au cas...
+Léodagan
+: Ah bah ça on va être large...
+Karadoc
+: On peut sonner la corne pour lui d'mander s'il a apporté un peu d'ja-jah ?
+Kay obéit.
+GENERIQUE
+Le soir, Arthur est de nouveau dans le lit de Demetra.
+Demetra
+: Vous êtes revenu finalement.
+Arthur
+: Ben ouais.
+Demetra
+: Et sans une égratignure vous voyez bien qu'y avait aucune raison d's'alarmer.
+Arthur
+: Nan effectivement là j'vous l'reproche pas, vous vous seriez alarmée pour rien toute façon.
+Arthur Voix Off
+: Même nous sur place on s'est pas alarmé plus que ça.
+Rédigé par Holly95 pour HypnoseriesKaamelott

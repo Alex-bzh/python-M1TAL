@@ -1,0 +1,130 @@
+Arthur déjeune dans la salle à manger, quand la voix de la Dame du Lac se fait entendre.
+Dame du Lac
+: Arthur !
+Le silence revient. Le Roi, inquiet, regarde autour de lui mais ne voit rien. Soudain la Dame du Lac apparaît à côté de lui. Arthur fait un bond.
+Arthur
+: Ah ! P'tain la vache, la trouille !
+DdLac
+: Il faut que je vous parle.
+Arthur
+: Nan mais d'accord, m'enfin prévenez...
+GENERIQUE
+Arthur
+: Donc, après la fourche, je continue 60 lieues vers le nord ?
+DdLac
+: Ouais enfin, 60, 65...
+Arthur
+: Bon 'mettons, après ?
+DdLac
+: Normalement, vous arrivez à une grande clairière.
+Arthur
+: A quoi j'la reconnaitrais ?
+DdLac
+: Ben... elle est grande...
+Arthur
+: Bref, d'accord...
+DdLac
+: Et au milieu y'a un un rocher triangulaire qui marque l'entrée de la grotte de Padraig.
+Arthur
+: La grotte de Padraig, okay. Donc, j'entre...
+DdLac
+: Vous rentrez, et vous parcourez les souterrains à la recherche de l'ogre à deux têtes.
+Arthur
+: D'accord, et quand j'tombe sur l'ogre à deux têtes, je l'zigouille. Vous avez un ptit quelque chose pour moi, une protection magique une potion...
+DdLac
+: Nan j'ai ça.
+Elle lui donne un paquet en souriant.
+Arthur
+: Qu'est-ce que c'est ?
+DdLac
+: C'est... un genre de cake.
+Arthur
+: Mais heu... un cake magique ?
+DdLac
+: Ah nan nan, c'est un cake, c'est pour la route...
+Arthur sceptique
+: Ben... merci.
+***
+Plus tard...
+Le Roi est dans les souterrains avec Bohort et Léodagan.
+Bohort
+: On n'y voit pas à deux pas devant soi, quelle épouvante !
+Léodagan
+: Ah c'est une grotte quoi, c'est vrai que c'est pas ce qu'il y a de plus éclairé !
+Arthur
+: Pffff mais qu'est-ce qu'il est long ce tunnel mais c'est affreux, ça fait combien de temps qu'on marche là dedans ?!
+Bohort
+: Mais des heures ! Les torches vont bientôt s'éteindre on ne pourra même plus rebrousser chemin !
+Léodagan
+: On pourra toujours, mais dans le noir.
+Bohort
+: Et pourquoi pas à cloche pied ? J'vous rappelle qu'a part nous y'a quand même l'ogre à deux têtes qui se balade dans cette grotte !
+Arthur
+! Ah bah celui là j'aimerais quand même bien qu'on finisse par tomber dessus !
+Bohort
+: Moi j'vous annonce tout net que j'suis pas pressé ! Et heu ça s'rait que de moi on...
+Leodagan
+: Ca s'rait que d'vous vous seriez déjà parti en courant comme une femme, ça va hein on commence à vous connaître !
+Bohort
+: Mais figurez-vous je n'ai pas honte ! J'vois pas c'que ça a de si curieux de vouloir rester en vie ! Encore, d'habitude y'a un trésor à la clé où un objet magique, une relique, mais là en plus on fonce droit sur le péril pour rien !!
+Leodagan
+: Comment ça pour rien ?
+Bohort
+: Ben c'est vrai ou c'est pas vrai ?
+Arthur
+: Bah c'est a dire que oui, cette fois la Dame du Lac a pas parlé de récompenses...
+Léodagan
+: Vous rigolez j'espère !
+Arthur
+: Enfin elle a pas parlé de récompense matérielle, mais y'a toujours la gloire... !
+Léodagan
+: Oh eh oh moi ça va hein, la gloire j'ai c'qui faut !
+Bohort
+: La gloire, de glorieuses funérailles oui ! Encore faudrait-il qu'on retrouve nos carcasses jusqu'ici, à la condition bien sûr de pas terminer dans l'estomac de l'autre abération à deux têtes !
+Arthur
+: Mais qu'est-ce que vous voulez que j'vous dise moi, elle a dû oublier de m'en parler !
+Léodagan
+: Ah mais ça s'rait bien la première fois quand même ! D'habitude au contraire pour vous stimuler elle vous parle d'abord du pognon !
+Arthur
+(s'énerve)
+: Mais j'ai pas besoin qu'on me parle de pognon pour être stimulé ! Du pognon j'en ai, c'est justement la gloire qui commence à faire défaut ! Seulement ça la gloire tout le monde s'en tape !
+Léodagan
+: Nan mais c'est pas tellement qu'on s'en tape, seulement quand y'a deux trois piecettes derrière ben c'est un ptit plus quoi...
+***
+Plus tard...
+Arthur
+: Mais j'vais pas vous forcer la main, si vous voulez pas y aller qu'est-ce que vous voulez que j'vous dise moi...
+Leodagan
+: On veut pas... jusqu'à preuve du contraire c'est pas à nous de décider c'est vous le Roi que je sache...
+Arthur
+: J'suis ptet Roi mais j'ai pas envie que ça s'passe comme ça ! Si on y va tous soudés, ensemble, on dézingue l'ogre à deux tête pour la gloire du truc, okay, mais si j'suis tout seul devant et que les deux autres traînent la grolle sous prétexte qu'y'a pas d'récompenses eh ben ça m'gonfle. Honnêtement j'préfère rentrer.
+Léodagan
+: Oh non mais j'prend pas la responsabilité de ça hein, c'est vous le boss au bout d'un moment !
+Arthur
+: Oui mais là le boss il en a plein sa musette, alors vous vous décidez pour une fois et moi je suis derrière. J'expliquerai à la Dame du Lac que je sais pas, on a pas trouvé la grotte et puis c'est marre !
+Léodagan
+: Non mais moi je décide rien du tout moi, rien !
+Arthur
+: Bon bah décidez vous, Bohort, tiens.
+Un grognement se fait entendre dans la grotte et les deux hommes se retournent vers Bohort.
+Bohort
+: Bof... non moi je pense qu'il vaut mieux qu'on rentre, hein...
+GENERIQUE
+Arthur est rentré au château. Il est en train de manger avec la Dame du Lac.
+Arthur
+: Y'avait plusieurs clairières, déjà, et puis des rochers triangulaires j'aime autant vous dire y'avait que ça, des rochers triangulaires...
+DdLac
+: Ben ouais mais c'est dommage quand même...
+Arthur
+: Ben j'suis bien d'accord avec vous.
+DdLac
+: Alors du coup, vous avez pas ramené l'émeraude géante...
+Arthur
+: Quelle émeraude géante ??
+DdLac
+: Bah oui, l'ogre il a avalé une émeraude géante, c'est pour ça qu'il faut le tuer et l'ouvrir en deux...
+Arthur
+: Putain j'avais pas compris ça comme ça moi...
+Arthur (Voix Off)
+: Nan mais j'vais r'monter une petite équipe, hein, maintenant que j'connais l'chemin !
+Rédigé par Holly95 pour HypnoseriesKaamelott

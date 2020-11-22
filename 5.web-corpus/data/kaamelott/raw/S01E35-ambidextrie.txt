@@ -1,0 +1,151 @@
+Arthur et Lancelot sont en armure dans un campement, au milieu de la forêt.
+Lancelot
+(regarde une carte)
+: Moi j'essaie de trouver une solution...
+Arthur
+: Parce que vous appellez ça une solution vous ?
+Lancelot
+: J'suis désolé, j'peux pas en même temps commander à droite et à gauche, il faut que je délègue les lanciers à Perceval !
+Arthur
+: Oh non mais allez j'vais l'faire laissez tomber.
+Lancelot
+: Enfin vous allez pas tout faire ! C'est un d'vos hommes quand même !
+(crie)
+Seigneur Perceval, venez on a besoin de vous !
+Voix de Perceval
+: J'peux pas j'surveille le stock de pain !!
+Arthur regarde Lancelot l'air de dire "j'vous l'avais dit".
+GENERIQUE
+Toujours dans la forêt.
+Lancelot
+: Le Seigneur Calogrenant est parti il y a deux jours pour placer son armée en amont de la rivière.
+Perceval
+: Ah, c'est pour ça qu'il est plus là.
+Lancelot
+: Bah oui, on l'a envoyé se positionner en avance...
+Perceval
+: Ah bon, moi j'croyais qu'il était rentré chez lui alors j'me disais "il s'fait pas chier quand même" !
+Arthur
+: Bref... Alors nous quand on va arriver dans la plaine, le Seigneur Calogrenant pourra lancer une attaque surprise par la droite.
+Perceval
+: Plutôt dans le sens du courant de la rivière alors ?
+Arthur
+: Plut... mmoui nan ça... j'sais pas vous dire ça...
+Lancelot
+: Et en dernier recours le Seigneur Leodagan se tient prêt avec 150 cavaliers qui arriveraient par la gauche.
+Perceval
+: Par la gauche ?
+Lancelot
+: Par la gauche, oui...
+Perceval
+: Nan mais par rapport au courant de la rivière ?
+Lancelot
+: Eh ben... ben j'en sais rien moi...
+Arthur
+: Mais qu'est-ce que vous venez emmerder le monde avec votre rivière, vous ?
+Perceval
+: Nan mais bon la gauche la droite, c'est bien gentil, mais moi il m'faut du concret !
+***
+Plus tard...
+Arthur
+: Mais c'est pas compliqué bon Dieu, y'a Calogrenant à droite, Leodagan à gauche et nous on arrive par le milieu !
+Lancelot
+: C'est bon jusque là ?!
+Perceval
+: Attendez moi si j'me souviens bien du coin y'a la rivière qui passe en travers...
+Arthur
+(s'énerve)
+: Ah mais merde avec votre rivière !!
+Perceval
+: C'est un point de repère comme un autre...
+Lancelot
+(
+s'énerve aussi)
+: Mais bon Dieu y'a pas besoin d'points d'repère puisque les envahisseurs vont nous attaquer de face !
+Perceval
+: Nan mais de face ça va, c'est le reste qui va pas.
+Arthur
+(crie)
+: Mais quoi non d'un chien ?!
+Perceval
+: Ben la gauche la droite, moi j'aime pas tous ces trucs !
+Lancelot
+: Mais qu'est-ce que vous aimez pas ?
+Perceval
+: Ces conneries d'gauche et droite, ça veut rien dire ces machins ! Selon comment on est tournés ça change tout !
+Arthur
+: Mais qu'est-ce que vous nous chantez ?
+Perceval
+: Moi j'estime que quand on parle techniques militaires il faut employer des termes précis !
+Lancelot
+: Bah heu oui... effectivement, ça peut prêter à confusion...
+Arthur
+: Nan mais attendez, c'est pour vous qu'on dit gauche et droite, c'est pour pas vous embrouiller !
+Perceval
+: Si ça m'embrouille !
+Lancelot
+: Ah bon, on peut parler normalement alors ?
+Perceval
+: Professionnel.
+Arthur
+: Bon ben alors okay, on reprend depuis le début. Donc, Calogrenant est posté depuis hier soir au nord-ouest de la zone d'attaque.
+Lancelot
+: Leodagan sud/sud-est un peu plus en retrait avec ses cavaliers.
+Perceval
+: Moi j'aime pas toutes ces conneries de sud-est nord-ouest...
+Arthur
+(s'énerve)
+: Quoi qu'est-ce qu'y a qui va pas encore ??
+Perceval
+: C'est un coup à s'planter ça ! T'façon on dit l'nord, selon comment on est tourné ça change tout !
+Lancelot se retourne brusquement et s'en va, agacé. Arthur tente de se maîtriser.
+***
+Plus tard....
+Lancelot est revenu, Arthur et lui ont l'air blasés.
+Perceval
+: Calogrenant ça va ! Maintenant Leodagan il est où ?
+Lancelot
+: Du côté de la forêt près de la clairière là où y'a une grosse pierre qui ressemble à une miche de pain.
+Perceval
+: Voiiilààà ! Là c'est pro ! Là j'comprends ! Et quand Calogrenant va arriver, il va couper par où ?
+Arthur
+: Du côté de la rivière à gauche du...
+Perceval
+: Ah ah ah attention !!
+Arthur
+: Pardon. Du côté d'la rivière là ou y'a les brebis qui passent.
+Perceval
+: D'accord ! Allez c'est bon
+(tire son épée)
+j'les attends les envahisseurs ! Ils vont s'prendre mon épée dans les côtelettes ça va les calmer pour un moment ! Ah j'ai hâte d'y être ! Ils vont s'frotter à la fausse-patte du Pays d'Galles !
+Lancelot
+: Les fausses-pattes c'est des gauchers.
+Perceval
+: Bah oui !
+Arthur
+: Vous êtes pas gaucher vous.
+Perceval
+: Ben si !
+Lancelot
+: Vous dégainez d'la main droite.
+Perceval
+: Merde, comment on dit l'inverse d'une fausse patte ?
+Arthur
+: J'sais pas. On dit rien.
+Lancelot
+: La vraie patte ?
+Perceval
+: Attendez la vraie patte du Pays d'Galles ça veut rien dire ! 'Voulez qu'j'passe pour un con ??
+Arthur et Lancelot se contentent de le regarder sans rien dire.
+GENERIQUE
+Plus tard dans le campement. Perceval parle avec un soldat quand Hervé de Rinel arrive.
+Hervé
+: Seigneur Perceval ! C'est le chef de rang qui m'envoie, ils ont discuté de la signalétique.
+Perceval
+: Et alors ?
+Hervé
+: Donc ce sera bras gauche en l'air pour les lancés de flèches et bras droit en l'air pour envoyer les lanciers.
+Perceval soupire et ferme les yeux.
+Perceval voix off
+: Toi un jour je te crame ta famille, toi.
+Rédigé par Holly95 pour HypnoseriesKaamelott

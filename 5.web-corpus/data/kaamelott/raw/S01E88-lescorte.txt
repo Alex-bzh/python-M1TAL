@@ -1,0 +1,139 @@
+Dans un campement en forêt, la nuit. Bohort parle avec Léodagan.
+Léodagan
+: Un escorte ? Et puis quoi encore ?
+Bohort
+: J'suis désolé sire Léodagan, mais Arthur me fait d'mander au château pour un nouveau plan d'bataille...
+Léodagan
+: Mais allez-y qu'est-ce que vous risquez...
+Un grognement d'animal se fait entendre, ce qui affole Bohort.
+Bohort
+: Et ça qu'est-ce que c'est ??
+Nouveau grognement.
+Léodagan
+: J'sais pas, un elfe une licorne... toute façon c'est une vraie basse-cour la forêt à c't'heure-ci. Me dites pas qu'vous avez les j'tons !
+Bohort
+: Quand j'suis avec vous ça va, qu'est-ce que vous feriez à ma place ?
+Léodagan
+: J'm'approcherais pas autant.
+Bohort se recule.
+GENERIQUE
+Arthur est à la Table Ronde avec Lancelot, Calogrenant, Galessin, Perceval et Karadoc. Des cartes sont étalées devant eux.
+Arthur
+: M'enfin qu'est-ce qui fait Bohort ? C'est pas vrai !
+Lancelot
+: Aucune nouvelle, le mieux c'est d'commencer !
+Arthur
+: Enfin j'vais pas tout répêter deux fois, déjà qu'c'est top secret !
+Galessin
+: On dit qu'il est arrivé au campement d'Léodagan en milieu d'après-midi.
+Karadoc
+: Bah il doit être content Léodagan.
+Calogrenant
+: C'est vrai qu'il l'apprécie pas beaucoup.
+Arthur
+: Nan pas des masses nan.
+Lancelot
+: Bon on commence ? Il viendra pas ce soir t'façon !
+Arthur
+: Comment ça ?
+Calogrenant
+: Sans rire, vous voyez cette chochotte traverser la forêt toute seule en pleine nuit ??
+Arthur
+: Nan attendez, c'est un chevalier Bohort quand même hein, c'est pas l'plus téméraire mais c'est pas une adolescente !
+Calogrenant
+: Question d'point d'vue.
+Perceval
+: Toute façon Léodagan il lui donnera pas d'escorte alors...
+Lancelot
+: Alors on l'verra pas, il faut commencer !
+Arthur
+: Bon allez on démarre. Et ouvrez les échauguettes hein, j'ai pas envie d'répêter.
+***
+Plus tard...
+Au campement de Léodagan.
+Bohort
+: J'sais pas comment vous faites, on dirait que rien n'vous fait peur, ni les barbares, ni les dragons...
+Léodagan
+: Vous êtes marié comme moi vous savez qu'la monstruosité peut prendre des formes très diverses...
+Bohort
+: Tout de même, cette bravoure, ce courage qui me fait tant défaut...
+Léodagan
+: Vous savez vous appelez ça du courage la plupart des gens me voient comme une brute alors... Ah non mais vous vous avez pas c'problème !
+Bohort
+: Ah vu comme ça c'est certain.
+Léodagan
+: Vous êtes plus dans l'feutré, plus dans la finesse... c'est un genre mais faut reconnaître que des fois c'est pas inutile.
+Bohort
+: Tout d'même, on m'reproche si souvent mon inaptitude à la violence...
+Léodagan
+: Tenez regardez, inaptitude, vous parlez comme les bouquins, enfin c'est l'idée que j'm'en fait j'peux pas blairer d'lire, mais c'est un style ça.
+Bohort
+: L'autre fois, quand on est tombé sur l'Hydre à cinq têtes, pendant qu'les autres montaient à l'assaut j'ai paniqué, j'ai été pris d'vertiges.
+Léodagan
+: Ah bah y a les hommes de terrains et ceux qui gambergent, vous vous gambergez. C'est une force ça.
+Bohort
+: Ah n'empêche... si notre bon Roi Arthur pouvait avoir votre aplomb, votre force de caractère...
+Léodagan
+: Ah qu'est-ce que vous voulez mon p'tit Bohort, entre son épée qui fait d'la lumière, son Merlin qui fait pleuvoir des grenouilles et sa Dame du Lac qui s'prend pour une truite, il lui manque plus qu'un numéro d'trapèze au Roi des bretons !
+Bohort
+: C'est pas faux...
+Léodagan
+: Et comment ! Changez rien mon p'tit vieux vous amenez un peu d'tenue dans cette fête foraine, au fond, vous êtes comme moi.
+Bohort
+: Comme vous ? A quelques détails près quand même...
+Léodagan
+: Pareil j'vous dis ! A deux trois poils de cul.
+***
+Plus tard...
+Bohort et Léodagan arrivent à la Table Ronde.
+Arthur
+: Léodagan ? Mais qu'est-ce que vous foutez là ?!
+Léodagan
+(souriant) :
+Bah j'raccompagne le jeune là, il avait un peu les miquettes à l'idée d'traverser l'bois...
+Arthur
+: Nan mais attendez on a fini on va pas tout r'commencer d'puis l'début...
+Calogrenant
+: C'est pas d'notre faute à nous si y en a qu'ont b'soin d'une escorte personnelle dès qu'le jour baisse !
+Léodagan
+: Ah nan mais moi j'étais juste parti pour l'raccompagner à la sortie du camp, puis vous savez c'que c'est hein on discute on papote et puis à force de marcher là on était sous votre cabane !
+Galessin
+: Et qui commande chez vous en c'moment ?
+Léodagan
+: Ah nan mais moi j'y r'tourne hein j'reste pas !
+Karadoc
+: Tout seul en pleine nuit ?!
+Léodagan
+: Qu'est-ce que ça fout ça ?
+Bohort
+: A la limite Sire puisque la réunion est finie, j'pourrais peut-être l'accompagner ?
+Arthur
+: Bah ma foi j'en sais rien, Léodagan ?
+Léodagan
+: Ca m'fait pas peur.
+Arthur
+: Bon bah d'accord mais seulement Bohort j'vous r'vois quand pour les instructions ?
+Bohort
+: J'reviens d'main matin !
+Léodagan
+: Ouais au besoin j'le raccompagne.
+Tous les regardent, quelque peu abasourdis.
+GENERIQUE
+Les deux nouveaux amis sortent dans le couloir.
+Léodagan
+: Vous savez pour mon projet d'tourelles là sur la plage, là où j'hésite c'est pour la pierre.
+Bohort
+: La pierre ça reste la pierre, ça fait plus cossu mais ça noircit avec les années.
+Léodagan
+: Eh ouais j'sais bien...
+Bohort
+: L'alternative, ce s'rait un beau bois flotté, et l'avantage c'est qu'on peut l'peindre !
+Léodagan
+: Ah mais le peindre de quelle couleur à votre avis ?
+Bohort
+: J'vais vous faire des p'tits échantillons à comparer à la lumière, ou peut-être une simple lasure...
+Léodagan
+: Ah ouais...
+Léodagan Voix Off
+: Eh ben voyez, ça m'serait jamais v'nu à l'idée moi, la lasure.
+Rédigé par Holly95 pour HypnoseriesKaamelott

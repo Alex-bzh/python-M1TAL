@@ -1,0 +1,158 @@
+INTERIEUR,  JOUR, UNE REMISE DU CHATEAU
+Karadoc et Perceval, torses nus, font mine de se battre avec des légumes et des morceaux de pain.
+Perceval & Karadoc :
+Ouf, ouf, ouf…
+Arthur entre et se cogne la tête contre une étagère déplacée dans le passage. Il
+tombe et se relève, furieux.
+ARTHUR :
+Mais qu'est ce que c'est que ce chantier ?
+PERCEVAL :
+Vous inquiétez pas Sire, on rangera tout après.
+ARTHUR :
+Après quoi ? Qu'est ce que vous foutez ?
+PERCEVAL :
+Ben, on s'entraîne.
+ARTHUR :
+Vous vous entraînez à mettre le merdier ?
+PERCEVAL :
+Non, mais on est sur une nouvelle technique là.
+KARADOC :
+Toujours à la pointe !
+ARTHUR :
+Rhabillez-vous et foutez-moi le camp d'ici bande de tarés ! Et tachez moyen de vous occuper à autre chose que d'emmerder le monde. Et rangez moi ce bordel avant que quelqu'un se fasse mal !
+Arthur ressort et retombe après s'être cogné au même endroit qu'en entrant.
+***
+Ouverture
+***
+INTERIEUR,  REMISE DU CHATEAU, PLUS TARD.
+Karadoc et Perceval, toujours torses nus, expliquent leurs péripéties à Arthur. Ce dernier  tient un tampon de tissu contre son front.
+KARADOC :
+Un jour on était à la taverne…
+PERCEVAL :
+On était de surveillance dans l'établissement.
+ARTHUR lève les yeux au ciel.
+KARADOC :
+Et d'un coup y'en a un qui se lève pour me taper.
+ARTHUR :
+Vous taper ? Pourquoi ?
+PERCEVAL :
+Non mais il était beurré.
+KARADOC :
+Il m'a pris pour son neveu.
+PERCEVAL :
+Et d'après ce qu'on a compris, il aimait pas son neveu parce que soi-disant il lui avait volé de la salade ou je sais pas quoi…
+KARADOC :
+Bon, bref, moi je vais pour dégainer mon épée…
+PERCEVAL :
+Et l'autre, il a attrapé sa cruche et il lui a pété sur la tête.
+KARADOC :
+Enfin il m'a pas pété sur la tête.
+PERCEVAL :
+Ah non il vous a pété la cruche sur la tête.
+KARADOC :
+Ah ouais voilà.
+PERCEVAL :
+Et c'est à partir de là qu'on a décidé de développer une nouvelle technique.
+KARADOC :
+C'était notre base de réflexion.
+ARTHUR :
+Oewff !
+PERCEVAL :
+Quoi ? C'est pas comme ça qu'on dit ?
+ARTHUR :
+Si, si, si, si, c'est comme ça.
+PERCEVAL :
+Donc on a décidé de s'entraîner à combattre en se servant des objets présents dans l'environnement.
+KARADOC :
+Première étape : Apprendre à reconnaître les objets redondants.
+ARTHUR :
+Les objets… ?
+PERCEVAL :
+Les objets redondants; les objets qui blessent, quoi. C’est pas comme ça qu’on dit ?
+ARTHUR :
+Si, ah, si, si, si, pardon, les objets redondants, pardon, j’avais pas compris. Allez-y…
+PERCEVAL :
+Allez, un exemple au hasard.
+KARADOC
+(Il attrape un bulbe de fenouil.)
+:
+Hop, héhéhé.
+PERCEVAL :
+Alors, Sire, est-ce que vous pensez qu’un fenouil, c’est redondant ?
+ARTHUR :
+Ben, c’est-à-dire que je suis pas un pro du combat au fenouil, mais enfin comme ça, instinctivement, je dirais non.
+Karadoc et Perceval rient.
+KARADOC :
+C’était un piège.
+PERCEVAL :
+Dans ce cas-là, la réponse c’est "oui et non".
+KARADOC :
+Le débutant, qu’est-ce qu’il fait ? Il attrape le fenouil par la tige, et essaye de donner des coups avec la partie sporadique.
+ARTHUR :
+La "partie sporadique" ?
+PERCEVAL :
+Ouais, sporadique, c’est quand c’est en forme de boule.
+ARTHUR :
+Hmm.
+KARADOC :
+Vous l’auriez attrapé par la tige, on est d’accord ?
+ARTHUR :
+Toujours dans l’éventualité où je me retrouve à me battre avec un fenouil, hein ?
+PERCEVAL :
+Ouais.
+ARTHUR :
+Oui, c’est possible, oui.
+KARADOC :
+Et ben, non, en fait, qu’est-ce qu’on constate quand on observe l’objet en détail, c’est que la partie sporadique ne présente pas de prospérité, et que donc, elle est lisse.
+PERCEVAL :
+Il vaux mieux l'attraper par la partie boulière…
+KARADOC :
+Ou sporadique.
+PERCEVAL :
+… et se battre avec la tige.
+KARADOC :
+La partie tigeuse.
+PERCEVAL :
+Dont la pointe peut être considérée comme redondante.
+KARADOC :
+Ça va, Sire, vous suivez ?
+Sans répondre, Arthur se tamponne le front avec un linge et continue à écouter.
+***
+Plus tard, Perceval présente une brosse.
+PERCEVAL :
+Une fois qu'on a analysé la brosse, on sait que la partie redondante, c'est les piquants. Du coup, on s'en sert pour griffer.
+KARADOC :
+Tout à l'heure on vu que le chapelet de saucisse n'était pas un objet redondant… et pourtant on a pu lui trouver une utilisation périmètrique en s'en servant comme un fouet.
+Karadoc fouette Perceval avec une saucisse.
+PERCEVAL :
+Aie ça fouette ! Pareil pour la flûte. Même si on l'a analysée redondante parce qu'elle est un peu pointue il vaut mieux s'en servir à agacer.
+Perceval souffle dans la flûte.
+KARADOC :
+Aaah je suis agacé ! Puisqu'il y a agacement il y a déconcentration. Et qu'est ce qu'on fait ?
+Arthur fait un signe d'ignorance. Karadoc souffle, comme excédé, et lui présente un cale de camail en toile.
+KARADOC :
+On utilise un objet que l'on avait mis de côté car il ne présentait pas de prospérité, mais qui, dans la situation actuelle, devient utile.
+Karadoc se coiffe du cale  dont les brides tombent sur ses oreilles ...
+KARADOC :
+Hop ! Et je ne suis plus agacé, mes oreilles sont protégées, on peut reprendre le combat.
+PERCEVAL :
+Vous voulez essayer Sire ?
+***
+Fermeture
+***
+INTERIEUR, REMISE DU CHATEAU.
+Arthur, armé d'un nunchaku, désarme Perceval qui l'attaque avec un poireau.  Arthur souffle dans la flûte. Perceval se coiffe du cale.
+KARADOC :
+Bien ! Bien ! Très bien ! Très - belle - passe !
+PERCEVAL :
+Attention ! Maintenant Sire, vous lâchez tous les objets !
+KARADOC :
+On vous attaque à deux et vous improvisez avec ce qui vous tombe sous la main derrière vous.
+Arthur attrape un objet lourd derrière lui et les frappe très rapidement à la tête, l'un après l'autre, de toute volée. Ils s'écroulent à ses pieds.
+***
+Noir
+***
+PERCEVAL :
+…Non mais Sire c'est n'importe quoi là !
+***
+Rédigé par Ubik3, pour Kaamelott Hypnoseries

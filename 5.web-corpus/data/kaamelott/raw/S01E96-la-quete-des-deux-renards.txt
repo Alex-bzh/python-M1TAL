@@ -1,0 +1,155 @@
+Léodagan et Arthur sont en train d'étudier des parchemins à la Table Ronde. Lancelot arrive en courant.
+Lancelot
+: Sire ! Les seigneurs Perceval et Karadoc sont arrivés.
+Arthur
+: Ah ! Bah c'est pas dommage !
+Léodagan
+: Et qu'est-ce qui ramènent avec eux ? Un coffre ?
+Lancelot
+: Non.
+Léodagan
+: Mais quoi alors, des sacs remplis ? Un prisonnier ?
+Lancelot
+: Ah non, non plus.
+Arthur
+: M'enfin ils reviennent pas les mains vides quand même, vous avez rien r'marqué ?
+Lancelot
+: Si. Ils ont plus d'chevaux.
+Arthur et Léodagan préfèrent ne rien répondre, le Roi se met la tête dans les mains.
+GENERIQUE
+Perceval et Karadoc sont à la Table Ronde pour le récit de leurs aventures, devant le Roi et Léodagan (ce dernier se réchauffe devant la cheminée). Le père Blaise est là pour écrire.
+Perceval
+: Alors là Sire, on en a des choses à vous raconter !
+Karadoc
+: Des aventures plein la musette !
+Léodagan
+: Comment ça s'fait qu'vous avez plus d'chevaux ?
+Perceval
+: Ben ils se sont sauvés d'l'auberge où on était...
+Karadoc
+: On les avait mal attachés...
+Perceval
+: Mais on a des trucs à vous raconter d'abord !
+Arthur
+: Ah bah j'pense bien, d'puis l'temps qu'on vous a pas vu.
+Léodagan
+: Pour ainsi dire trois semaines.
+Perceval
+: Du coup on sait pas bien par quoi commencer...
+Blaise
+: Ben commencez déjà par le titre, que j'puisse calligraphier mon entête.
+Karadoc
+: Quel titre ?
+Léodagan
+: Faut trouver un titre un peu classe par rapport à c'que vous avez fait... j'sais pas moi, le nom d'l'ennemi qu'vous avez combattu, c'est quoi ?
+Perceval
+: Ah mais on a pas combattu.
+Arthur
+: Non mais n'importe quoi, le trésor que vous avez ramené, un objet magique, il faut que ça fasse la quête du lalala...
+Blaise
+: Oui voilà, il me faut quelque chose.
+Karadoc
+: On peut pas mettre la quête des aventures de Perceval et Karadoc lalala ?
+Léodagan
+: Ouais donc vous avez pas d'trésor, pas d'objets magiques, et vous avez combattu personne quoi...
+Perceval
+: Ben... pas vraiment.
+Arthur ferme les yeux.
+***
+Plus tard...
+Léodagan casse la croûte.
+Perceval
+: Le jour où on est parti, j'sais pas si vous vous souvenez, il faisait très gris.
+Karadoc
+: D'ailleurs on avait pensé partir le lendemain pour éviter d'prendre la flotte sur la tronche, mais on s'est dit allez hop merde !
+Perceval
+: Le tout pour le tout !
+Karadoc
+: Et en fait c'était menaçant, mais il est rien tombé.
+Perceval
+: Là dessus on s'arrête à l'auberge des Deux Renards pour passer la nuit.
+Léodagan
+: L'auberge des Deux Renards, mais c'est juste après la forêt nan ?
+Arthur
+: Vous faites à peine deux lieues et vous vous arrêtez pour pioncer ?
+Blaise
+: Je sens qu'ça va encore être épique...
+Karadoc
+: En fait c'était pas tant pour dormir, que pour manger.
+Perceval
+: J'sais pas si c'est l'grand air où quoi, on s'était chopé une de c'te fringale... Puis on trouvait ça dommage de taper dans les provisions alors qu'on était encore en zone civilisé.
+Blaise
+: Sire, y a un truc qui s'rait bien, ce s'rait qu'on passe tout de suite à la partie action, hein... moi j'me débrouillerais toujours pour faire une jolie intro.
+Perceval
+: Oh mais ça vient ça vient !
+Karadoc
+: Si vous voulez d'l'action vous allez être servi !
+Léodagan
+: De l'action à l'auberge des Deux Renards...
+Arthur
+: Non mais si pourquoi pas... attendez.
+Perceval
+: On venait de tuer l'agneau là dedans, y avait une bonne odeur de bidoche grillée dans la salle.
+Karadoc
+: Du coup, on s'met à table avec les autres, on s'commande une bonne assiette de charcu chacun, on commence à manger, et là franchement, c'était bon.
+Perceval
+: Ouais c'était bon. Franchement j'y ai vu que du feu.
+Karadoc
+: Pas d'odeur bizarre rien.
+Léodagan
+: Mais... vous avez vu qu'du feu à quoi ?
+Perceval
+: Attendez, c'est là qu'ça devient intéressant.
+Blaise
+: Avec un suspens pareil, ça serait malheureux...
+***
+Plus tard...
+Karadoc
+: On a compté quoi, une demi-heure ?
+Perceval :
+Même pas.
+Karadoc
+: Allez, 20 minutes.
+Perceval
+: Tout le monde s'est mis à gerber dans l'auberge !
+Karadoc
+: L'agneau était daubé du cul !
+Perceval
+: Malade comme des chiens, le lendemain on tenait à peine debout ! Blancs comme des linges !
+Arthur
+, blasé : Et puis...?
+Karadoc
+: Et puis... au lit trois bonne semaines.
+Perceval
+: Le tavernier nous avais fait un prix pour s'excuser du désagrément.
+Karadoc
+: Au bout d'une semaine seulement on a pu avaler quelque chose sans tout rendre.
+Perceval
+: Et encore, un p'tit bouillon d'poireau, c'est tout.
+Karadoc
+: Qu'est-ce que vous dites de ça ?
+Arthur lève vaguement les sourcils.
+Blaise
+: Et ben moi j'dis qu'j'ai pas fini d'cogiter sur le titre...
+GENERIQUE
+Blaise est assis à la Table Ronde, ses parchemins sont étalés devant lui. Arthur et son beau-père sont partis.
+Blaise
+(
+soupirant)
+: Mais qu'est-ce que vous voulez que je fasse comme aventure avec ça ...?
+Perceval
+: Mais quand même, ça arrive pas tout les jours !
+Blaise
+: Vous avez même pas sorti vos épées au moins une fois !
+Perceval
+: Oh putain les épées !
+Karadoc
+: Quoi ?
+Perceval
+: On les a oubliées là-bas !
+Blaise jette sa plume et se met la tête dans les mains.
+Karadoc
+: Qu'est-ce qu'on fait ? Allez on y retourne !
+Perceval Voix Off
+: On peut pas on a plus d'chevaux.
+Rédigé par Holly95 pour HypnoseriesKaamelott
