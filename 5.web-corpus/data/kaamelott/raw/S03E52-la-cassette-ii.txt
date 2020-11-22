@@ -1,0 +1,107 @@
+Léodagan entre dans la cuisine et vérifie qu'il est tout seul. Il pose un paquet sur la table, il s'agit d'un coffret. Seli le surprend.
+Seli
+: On peut savoir ce que vous glandez ici à cette heure ?
+Léodagan
+: Je viens bouloter un morceau. Je vois pas ce que ça peut avoir d'anormal.
+Seli
+: Quand vous vous levez pour bouffer, vous me réveillez. Vous bougez, vous allumez les bougies, vous toussez, bref, vous ignorez mon existence.
+Léodagan
+: Oui, ben et bien ?
+Seli
+: Et ben là, pas un bruit, pas un mouvement, tout dans le furtif. Vous avez glissé du pageot comme un pèz sur une plaque de verglas.
+Léodagan
+: Allez savoir, je suis peut être devenu un...
+Seli
+: Arrêtez immédiatement de me prendre pour une truite ; qu'est-ce que vous maquillez ?
+Léodagan
+: Rien !
+Seli
+: Rien ?
+Léodagan
+: Parole d'homme!
+Seli
+: Vous êtes en train de me monter un char, je vous préviens hein, j'suis pas d'humeur. Alors ou vous m'expliquez pourquoi vous rasez les murs comme un évadé de cachot ou vous prenez ma main dans le pif !
+Léodagan
+: Mais vous allez vous calmer, oui ? Figurez-vous que ça vous regarde peut-être pas ce que je viens foutre ici!
+Seli
+: Tout ce que vous manigancez, de près ou de loin, me concerne toujours. C'est une chose qui se passe de vos appréciations.
+Léodagan
+: Quand on a marié la petite à l'autre andouille, il était question d'ajouter à notre joie l'éventualité de s'en mettre plein les manches sans trop d'efforts. Evidemment, je schématise.
+Seli
+: C'est concis, mais j'm'y retrouve, continuez.
+Léodagan
+: Alors je dresse un bilan du mariage : l'héritier on l'attend plus, et le pognon on l'attend toujours!
+Seli
+: Oui, enfin, j'ai pas les chiffres en tête.
+Léodagan
+: Il nous laisse les miettes. On lui donne not'fille il nous file une piaule. J'suis pas d'accord!
+Seli
+: Alors, quoi ?
+Léodagan
+: Alors je corrige le tir. Chaque fois qu'on revient de mission ...
+Léodagan montre le coffret.
+Léodagan
+: Tac ! J'essaie de prélever un machin du butin, pour sauver l'honneur. Un bijou, une pierre précieuse.
+Seli
+: Vous piquez le blé du royaume !
+Léodagan
+: Je le pique pas ! je le canalise ! Mais l'idée de départ est tout de même différente.
+Seli
+: Mais l'idée d'arrivée, on retrouve plus ou moins l'esprit de l'entubage, non ?
+Léodagan
+: Bon, vous soutenez ou vous soutenez pas ?
+Seli
+: Hé si c'est pour la bonne cause, je m'en voudrais d'faire obstacle.
+Léodagan
+: Alors retenez bien ça : au cas où y'aurait des fouilles, je garde rien dans la piaule, j'mets tout dans ce placard, là. J'récupère la mise quand on rentre en Carmélide où j'entasse le magot sous les dalles du grand hall.
+Seli
+: C'est pourtant pas faute d'avoir cherché !
+Léodagan remet le coffret dans le placard.
+Léodagan
+: y'a plus qu'à espérer qu'il y ait pas un loufiat qui vienne fourrer son nez là-dessous jusqu'à après-demain, le jour où on se casse.
+Seli
+: Dites, vous savez que vot'petit manège, la, si ça venait à se savoir...
+Léodagan
+: y'a quelqu'un là ou quoi ?
+Arthur entre dans la cuisine.
+Arthur
+: Tiens donc... Antoine et Cléopâtre.
+Seli
+: Qu'est-ce qui se passe mon gendre ?
+Arthur
+: Ben, qu'est-ce qui se passe... je suis venu prendre un peu de flotte déjà et puis je suis venu prendre aussi un peu d'alcool de pomme parce que j'ai une dent qui me fait mal.
+Léodagan
+: Vous, vous voulez dire l'alcool de pomme qui est dans le placard ?
+Arthur
+: Ben, il me semble, oui.
+Seli
+: Non mais dans ce placard là vous voulez dire ?
+Arthur
+: C'est possible, oui et qu'est-ce qu'il y a ?
+Léodagan
+: Vous allez pas prendre de l'alcool de pomme à cette heure ci ?
+Seli
+: et puis l'alcool de pomme ça a jamais soulagé les maux de dents ! faut arrêter.
+Arthur
+: Vous savez que vous êtes déjà pas bien aguichants de jour hein, mais alors de nuit, vous êtes à deux doigts de me coller les jetons.
+***
+GENERIQUE
+***
+Arthur
+: ouh, rien à faire ça passe pas !
+Léodagan
+: Allez vous coucher, ça ira mieux demain.
+Arthur
+: Ca reste à voir. Je sais ce que je vais faire, je vais y mettre du clou de girofle, il parait que ça agit.
+Seli
+: Ah non non, non, ça marche pas ça, c'est des conneries, ça.
+Léodagan
+: De toute façon, tout ce qui est dans le placard, ça marche pas pour les dents.
+Arthur
+: Non mais vous êtes chiants, non, qu'est-ce que c'est qui marche ?
+Seli
+: Le repos.
+Léodagan
+: Ou à la limite, si, ce qu'il y a dans les autres placards.
+***
+Rédigé par Mamynicky pour Kaamelott Hypnoseries

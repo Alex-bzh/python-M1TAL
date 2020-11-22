@@ -1,0 +1,146 @@
+Séli et Léodagan sont dans leur lit.
+Séli
+: Bon allez, j'éteins.
+Léodagan
+: Bah une seconde non ? J'ai pas fini d'lire !
+Séli
+: Y'a plus un rond au château. On économise les torches, c'est la consigne.
+Léodagan
+: C'est la consigne pour les larbins, pas pour nous.
+Séli
+: Alors on fout les larbins dans le noir pour éponger le déficit ?
+Léodagan
+: Avec le boulot de con qu'ils ont, ils s'endorment comme des masses, ils ont pas besoin de lumière... Toute façon ils savent pas lire.
+GENERIQUE
+Arthur est assis à la Table Ronde avec Léodagan et Bohort.
+Arthur
+: Vous êtes sûr qu'vous exagérez pas un peu ?
+Bohort
+: Ah Sire, croyez nous, c'est catastrophique...
+Léodagan
+: Séchés, désossés, les caisses sont vides ! Et c'est pas une image hein, on voit le fond.
+Arthur
+: Mais enfin qu'est-ce qui s'est passé ?? J'croyais qu'on f'sait gaffe !
+Léodagan
+: On fait gaffe... Vous avez une idée du pognon qui fout le camp dans les banquets, les bals, la décoration, le mobilier, hein ?
+Bohort
+: Je rêve ?! Sire je peux vous assurer que les dépenses engendrées par les réceptions officielles sont loin d'égaler le budget colossal englouti par la défense du territoire !
+Léodagan
+: Ah ben ça y est j'l'attendais celle-là, sous prétexte que j'ai fais acheter trois catapultes le mois dernier...
+Arthur
+(choqué)
+: Trois catapultes ?! Non mais vous êtes marteau ??
+Léodagan
+: Oh, faut c'qui faut, hein.
+Bohort
+: Je signale au passage que c'est à cause de ça qu'on avait plus que des asperges à servir aux princes Vandales.
+Léodagan
+: Y'a pas de honte à servir des asperges...
+Bohort
+: Non mais QUE des asperges, ça fait un peu rapia, excusez-moi.
+Arthur
+: Ouais, nan mais le truc c'est qu'après, s'ils vont raconter partout que le Roi Arthur sert que des asperges et qu'y a plus un rond... c'est tous les envahisseurs de la planète qui vont radiner pour nous assiéger.
+Léodagan
+: Ahahah bah j'les attends les mecs, avec les trois catapultes qu'y a dans la cour, ils ont intérêt à se pointer avec autre chose que des lances-pierres !
+***
+Plus tard...
+Venec a rejoint les trois hommes.
+Venec
+: Ca arrive d'être raide, le pognon, ça va ça vient, il faut jamais paniquer.
+Arthur
+: Qu'est-ce qui m'récite des proverbes celui là, c'est pour ça qu'vous l'avez fait venir ?
+Léodagan
+: Nan nan, c'est juste que j'ai pensé, mais éventuellement, hein, qu'il pouvait peut-être nous donner un coup de main.
+Venec
+: Coup de main, c'est beaucoup dire, un p'tit coup de pouce, quoi.
+Bohort
+: Je vois pas en quoi un marchand d'esclave pourrait nous aider à nous sortir de nos problèmes pécuniers...
+Arthur
+: Ben j'avoue que j'vois pas non plus, vous comptez nous racheter le château à bon prix ?
+Venec
+: Non... Enfin attention, si vous êtes vendeur, j'vous fais une proposition aux oignons ! J'ai justement besoin d'un grand local pour entreposer des chinetoques.
+Bohort
+: Sire ! Est-cce que nous avons vraiment besoin de nous entretenir avec cette vermine ?
+Venec
+: La vermine elle va p'tet vous sortir d'la purée, alors un peu d'respect, okay ?
+Arthur
+: Bah vous la crachez votre pastille ? Qu'est-ce que vous pouvez faire ?
+Léodagan
+: Attention, c'est spécial hein, prenez le pas de travers. Bon allez-y, montrez-lui.
+Venec sort une bourse et la lance à Arthur. Ce dernier l'ouvre et prend des pièces.
+Arthur
+: Ouais, c'est du pognon... ?
+Venec et Léodagan
+: Ouais ouais, du pognon.
+Venec
+: Qu'est-ce' vous en pensez ?
+Arthur
+: Ben j'en pense que j'suis content pour vous mais à partir du moment ou c'est pas le mien, qu'est-ce que vous voulez qu'ça m'foute ?
+Venec
+: J'en ai des pleines caisses de ça.
+Bohort
+: Avec toute la viande humaine qui fait circuler, ça m'étonne pas.
+Léodagan
+: Allez regardez bien, qu'est-ce que vous en pensez ?
+Arthur
+: Mais quoi qu'est-ce que j'en pense, c'est du pognon, y'a ma gueule dessus, voilà !
+Léodagan
+: C'est pas des vraies.
+Venec
+: C'est moi qui les fabrique !
+Bohort
+: Comment ??
+Arthur
+: Vous vous foutez de moi ?
+Léodagan
+: C'est bien fait, hein ?
+Venec
+: Bon, j'vous en mets combien ?
+Arthur reste bouche bée.
+***
+Plus tard...
+Venec
+: Vous m'dites les caisses sont vides, j'propose de les remplir, vous êtes pas content.
+Arthur
+: On peut savoir depuis quand vous vous fabriquez votre propre pognon ?
+Bohort
+: Cet homme participe à la ruine du royaume Sire !
+Léodagan
+: Ca va, on va pas faire un flan pour deux trois piécettes...
+Venec
+: Nan mais c'est pour mon usage personnel en plus...
+Arthur
+: Vous êtes conscient que j'devrais vous arrêter et vous faire enfermer dans une cage jusqu'à ce que vous soyez décomposé ?
+Venec
+: Attendez, moi j'essaye de vous rendre service !
+Bohort
+: Organiser l'inflation, vous appelez ça nous rendre service ?
+Léodagan
+: Mais qu'on remplisse les caisses avec du vrai ou du faux pognon, honnêtement qu'est-ce que ça change ?
+Venec
+: Ecoutez, j'vous fais un bon prix.
+Arthur
+: Ah parce que vous les vendez en plus !!
+Bohort
+(criant)
+: C'est honteux !!
+Léodagan
+: C'est bon, y'a pas d'quoi en chier une galette !
+Arthur
+: Mais parce que ça s'passe chez moi ! J'aimerais bien voir la tête que vous feriez s'il fabriquait des pièces de votre royaume à vous !
+Venec
+: Ah la Carmélide ? Ouais j'en ai aussi ! Plus vrai qu'du vrai, tout l'monde y voit qu'du feu !
+En une seconde Léodagan attrape Venec par la nuque et lui éclate la tête sur la table. Venec part ensuite à la renverse et s'écroule.
+GENERIQUE
+Séli et Léodagan sont dans leur lit.
+Léodagan
+: Vous croyez qu'y a des fausses pièces qui circulent en Carmélide ?
+Séli
+: Ben évidemment qu'y en a, j'en ai acheté moi.
+Léodagan
+: Quoi ? Ah bah d'mieux en mieux !
+Séli
+: Attendez pour 15 vraies j'en ai 50 fausses, le calcul est vite fait !
+Séli voix off
+: Avec les malheureux trois ronds qu'vous m'faites tomber tous les mois, il faut bien que j'trouve des combines !
+Rédigé par Holly95 pour HypnoseriesKaamelott

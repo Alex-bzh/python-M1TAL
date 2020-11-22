@@ -1,0 +1,189 @@
+Demetra et Arthur se promènent dans le parc.
+Demetra
+: J'adore l'automne ; ça me donne toujours envie de réciter des poèmes.
+Arthur
+: Vous allez pas le faire ?
+Demetra
+: Ben non, en plus j'en connais pas.
+Yvain
+: Sire, sire!
+Yvain arrive en courant.
+Arthur
+: Eh ben, qu'est-ce qu'il se passe ?
+Yvain
+: J'adore ces arrivées.
+Arthur
+: De quoi ?
+Yvain
+: Ben, sire, sire, en courant, et tout... ça fait hyper dramatique.
+***
+GENERIQUE
+***
+Yvain
+: Mon père veut vous voir.
+Arthur
+: Non !
+Yvain
+: Ben si, il m'a dit  « je veux le voir ».
+Arthur
+: Oui, mais moi je vous dis : non j'y vais pas.
+Demetra
+: C'est peut-être important.
+Yvain
+: Ca a l'air, il arrête pas de crier.
+Arthur
+: Mais il arrête jamais de crier ! Si je devais prendre des coups de sang à chaque fois!
+Yvain
+: C'est bon, vous êtes d'accord ?
+Arthur
+: D'accord pour quoi ?
+Yvain
+: Ben je crois qu'il veut démolir la grande porte.
+Arthur
+: Démolir la grande porte ! Où il est ?
+Yvain
+: A la grande porte!
+Arthur part en courant.
+Arthur:
+hé !
+Yvain
+: je crois que j'ai jamais su comment vous vous appelez.
+Demetra lève les yeux au ciel.
+***
+Devant la grande porte.
+Léodagan
+: Quoi, qu'est-ce qu'il y a ? Vous voyez bien qu'est-ce qu'il y a !
+Arthur
+: Ben oui, c'est la grande porte quoi !
+Léodagan
+: Avec vos restrictions de budget à la con, j'ai pas pu m'acheter une catapulte.
+Arthur
+: Quel rapport avec la grande porte ?
+Léodagan
+: J'ai fait venir un micheton d'Europe pour faire construire une baliste !
+Arthur
+: Mais où ça ?
+Léodagan
+: Mais ici, dans l'enceinte du château ; ça fait deux semaines qu'il bosse le gars ; alors maintenant qu'il a fini, crac!
+Arthur
+: Crac quoi?
+Léodagan
+: Votre porte est trop basse, je peux pas sortir la baliste.
+Arthur
+: Quoi , mais vous êtes complètement con !
+Léodagan
+: Vous allez me faire le plaisir de faire péter cette saloperie que je puisse faire sortir la machine, hein!
+Arthur
+: Péter la grande porte, vous êtes pas bien ?
+Léodagan
+: Ben oui, ou alors la remonter!
+Arthur
+: La remonter de combien ?
+Léodagan
+: Ah, euh, 35 pieds.
+Arthur
+: 35 pieds !
+Léodagan
+: On va pas rester avec une baliste au milieu de la cour, soyez pas con !
+Arthur
+: Qu'est-ce que j'y peux moi, si vous faites construire des machins qui ne passent pas par les portes !
+Léodagan
+: Ben je vais pas faire des ballistes qui m'arrivent en-dessous des genoux pour vous faire plaisir .C'est des tailles standard ça !
+Arthur
+: Mais la porte aussi c'est une taille standard. Je vous conseille de renoncer à votre projet de me la foutre en l'air hein ?
+Léodagan
+: On va pas tirer des boulets de l'intérieur !
+Arthur
+: Y'en a bien qui le font.
+Léodagan
+: Oui, ben ceux qui le font ils ont des balistaires un peu plus précis que les notres!
+Arthur
+: Ben les nôtres faut les entraîner à tirer par dessus la porte, demerdez-vous !
+Léodagan
+: Vous êtes quand même pas arrangeant, hein.
+***
+Arthur rejoint Demetra dans le parc.
+Arthur
+: Excusez hein, vous savez ce que c'est, les affaires ...
+Demetra
+: Pas tellement non.
+Arthur
+: Bon, on en était où ?
+Demetra
+: C'était sensé devenir romantique mais ça ne venait pas vite.
+Arthur
+: Mais vous voyez pas que je fais 40.000 trucs en même temps là ? Sans déconner, vous croyez que ça marche sur commande ça ?
+Demetra
+: Le problème c'est que c'est un peu une fois tous les trois ans, les promenades main dans la main alors si en plus ça ne marche pas sur commande ça devient franchement compliqué!
+Arthur
+: Alors, qu'est-ce qu'on fait, on se concentre ou on remet ça dans trois ans ?
+Demetra
+: Ah mais c'est bon, ça va ! on se calme, on respire ! Si vous me disiez quelque chose de gentil.
+Arthur
+: Oh!
+(en hochant la tête)
+Demetra
+: Embrassez-moi au moins !
+Arthur se rapproche de Demetra quand Yvain arrive en courant en criant.
+Yvain:
+Sire, sire, c'est vraiment trop bon !
+Arthur
+: Qu'est-ce qui se passe encore ?
+Demetra
+: Bon alors ?
+Yvain
+: Mon père me dit de vous dire qu'il a commencé l'entraînement avec les ministères.
+Arthur
+: Avec les ... ?
+Yvain
+: les ministères qui tirent à la balustrade.
+Arthur
+: La balustrade ?
+Yvain
+: La balustrade !
+Arthur
+: La catapulte ?
+Yvain
+: voilà, oui !
+Arthur
+: Les balistaires !
+Yvain
+: voilà.
+Un coup de canon et un bruit de pierres qui s'écroulent font partir Arthur en courant.
+Arthur
+: La grande porte ! Oh putain !
+Yvain
+: Flavia ? C'est ça ou pas ?
+***
+Arthur et Léodagan sont assis. Le roi arbore une mine sombre.
+Léodagan
+: Vous voyez où ça nous mène vos obstinations ?
+Arthur
+: Ha, je vous en prie, ne la ramenez pas hein ! J'espère que vous allez lancer les travaux pour la porte.
+Léodagan
+: Mais oui, mais oui, par contre ça vous coûte une blinde, ah je vous préviens hein !
+Arthur
+: Ha parce que c'est moi qui paye bien sûr !
+Léodagan
+: Ah ben c'est pas ma porte hein.
+***
+GENERIQUE
+***
+Devant la grande porte.
+Léodagan
+: Voila vous êtes content, elle est comme neuve !
+Arthur
+: Bien.
+Léodagan
+: Alors, moi, ce coup ci, je fais construire un onagre.
+Arthur
+: Ah, vous avez vraiment la folie des grandeurs hein !
+Léodagan
+: Ah parce que je me suis dit la baliste, haaa, est-ce que ça fait pas un peu tantouse quand même ?
+Arthur
+: Oui ben en tout cas cette fois-ci construisez-le dehors !
+Léodagan entre dans le château en criant.
+Léodagan:
+Hé ; hé machin ...non, stop ! comment est-ce qu'on dit, arrête petit en romain?
+***
+Rédigé par Mamynicky pour Kaamelott Hypnoseries

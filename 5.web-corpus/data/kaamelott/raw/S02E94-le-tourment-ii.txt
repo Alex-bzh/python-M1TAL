@@ -1,0 +1,181 @@
+À la taverne, Perceval et Karadoc discutent.
+Karadoc
+: C’est quand votre anniversaire déjà ?
+Perceval
+: J’le dis pas !
+Karadoc
+: Pourquoi ?
+Perceval
+: A l’époque quand j’le disais, tout le monde oubliait de me le souhaiter ! Ça me faisait pleurer. Ça m’a gonflé, j’ai arrêté.
+Karadoc semble sincèrement désolé pour son ami.
+***
+Générique
+***
+Perceval est invité à la table du roi. Une servante amène un plateau puis repart.
+Perceval
+: Sire, on peut parler, ou vous préférez manger calmement ?
+Arthur
+: Parce que si on parle, forcément j’m’énerve ?
+Perceval
+: Ben non, j’en sais rien !
+Arthur
+: Ben allez-y, on verra !
+Perceval
+: De but en blanc, comme ça, ça fait un peu bizarre… Vous allez trouver ça con !
+Arthur
+: J’m’y attends !
+Perceval
+: Bon ben voilà, vous savez, vous avez vachement bonne réputation chez les collègues chevaliers !
+Arthur
+: Ah bon ?
+Perceval
+: L’autre jour, j’sais pu qui c'est qui disait, avec tout ce qu’on lui fait voir, il se débrouille quand même pour garder le moral !
+Arthur
+: Ah, parce que vous le savez en fait que vous êtes une bande de branleurs ! Vous en discutez entre vous, même !
+Perceval
+: Nan mais ce qui m’a fait tiquer, c’est le Seigneur Bohort, qui disait que ce qui était impressionnant chez vous, c’était l’amour que vous nous portiez.
+Arthur
+: Ah ben ça, ça dépend des jours !
+Perceval
+: Moi j’dirais plutôt, ça dépend qui !
+Arthur
+: C’est-à-dire ?
+Perceval
+: Ben justement, c’est ça qui me pose problème ! Je suis le seul que vous aimez pas.
+Arthur regarde Perceval. Il ne sait pas quoi répondre.
+***
+Perceval
+: Vous savez, j’le prends pas mal, hein !
+Arthur
+: Non mais pourquoi vous dites ça ! C’est complètement con !
+Perceval
+: Attendez, c’est remontrance sur remontrance ! A chaque fois que j’ouvre la bouche, vous levez les yeux au ciel !
+Arthur lève les yeux au ciel.
+Perceval
+: Tenez ! Vous voyez ?
+Arthur
+: Non mais attendez, peut-être que je vous fais plus de remontrances car vous faites plus de conneries aussi !
+Perceval
+: Tout le monde en fait des conneries !
+Arthur
+: Non, attendez ! Vous faites beaucoup plus de conneries que les autres, c’est pas peu dire.
+Perceval
+: C’est pour ça que vous m’aimez pas !
+Arthur
+(
+s’énervant
+) : Mais arrêtez avec ça ! Qu’est-ce que c’est que cette nouvelle glanderie encore ! Qu’est-ce que ça veut dire, ça, je vous aime pas ?
+Perceval
+: Quoi, c’est pas vrai, peut-être ?
+Arthur
+: Pfff, pas du tout !
+Perceval
+: Vous m’aimez ?
+Arthur
+: Je vous aime…
+Perceval
+: Oui ou non !
+Arthur
+: Mais je n’en sais rien !
+Perceval
+: Si vous savez pas c’est que c’est non.
+Arthur
+: Vous avez une manière de présenter ça, aussi !
+Perceval
+: Ben c’est pas compliqué comme question !
+Arthur
+: Mais c’est compliqué comme réponse !
+Perceval
+: Encore une fois, j’vous l’reproche pas. L’amour, ça c’est un truc, ça se commande pas.
+Arthur
+: Bon ! Comme ça j’verrai où vous voulez en venir ! Mettons que je vous aime pas…
+Perceval
+: Ah ben voilà !
+Arthur
+: J’ai dit "mettons" !
+Perceval
+: Ben après je fais mes valises, et je retourne au Pays de Galles.
+Arthur
+(
+sidéré
+) : Ah ouais, carrément.
+Perceval
+: Ah ben ouais ! J’suis obligé ! Parce que moi, j’vous aime vachement quand même ! Alors ces trucs-là, quand ça marche que dans un sens, c’est pas bien bon.
+Arthur
+(
+secouant la tête
+) : Mais qu’est ce qui peut bien se manigancer dans votre tronche pour vous pointer avec des idées pareilles.
+Perceval
+: Sire ! J’peux pas faire mieux, là ! Vous pouvez pas me blairer, je pars !
+Perceval se lève.
+Arthur
+: Ah d’accord, oui… Vous partez tout de suite, en fait ! Ah, super ! (
+ferme
+) Asseyez-vous !
+Perceval
+: Mais Sire !
+Arthur
+: Nan, asseyez-vous, asseyez-vous ! Sinon vous vous mangez une tarte.
+Perceval se rassoit
+.
+***
+Arthur
+: Où est-ce qu'ils déjeunent les autres chevaliers ?
+Perceval
+: Euh… A la salle de garde, je crois ! Y’a Karadoc qu’a préparé un petit frichti !
+Arthur
+: Mmm, vous y êtes pas vous ?
+Perceval
+: Ben non, j’suis là !
+Arthur
+: Mais pourquoi vous êtes là ?
+Perceval
+: Ben, parce que vous m’avez invité !
+Arthur
+: Ah ! Et c’est la première fois ?
+Perceval
+: Non.
+Arthur
+: Avec quel autre chevalier je déjeune seul à seul ?
+Perceval
+: Ben, j’sais plus !
+Arthur
+: Aucun.
+Perceval
+: Aucun ?
+Arthur
+: Aucun. Vous êtes le seul !
+Perceval
+: Ah mais, comment ça se fait ?
+Arthur
+: Parce que j’ai envie ! Une heure avant, j’me dis toujours, tiens, j’vais déjeuner avec Perceval… Ça me fait plaisir.
+Perceval ne réagit plus, il ne sait pas quoi répondre.
+Arthur
+: Ça vous la coupe, ça !
+Perceval
+(
+ému
+) : Un peu, oui.
+Arthur
+: Bon après, une fois que j’bouffe avec vous, j’regrette, hein, on est d’accord ? Arrivé au milieu du repas j’ai toujours envie de vous éclater le crâne avec le tranchant de la coupe, là, pour vous fermer votre gueule une bonne fois pour toutes ! Mais sinon, non, j’vous aime !
+***
+Générique
+***
+Arthur et Perceval se font un câlin. Ils sont debout et se serrent dans les bras.
+Arthur
+: Ça va ? Vous avez pas l’air à votre aise !
+Perceval
+: Si, si ! J’profite, parce que j’me dis que ça va pas être tous les jours !
+Arthur
+: Ah ben j’vous confirme, oui ! Le coup du chantage affectif, une fois, pas deux !
+Perceval
+: Donc vous pouvez pas me supporter, mais vous m’aimez !
+Arthur
+: Voilà, c’est un peu ça.
+Perceval
+: Remarquez, y’a les voisins de mes vieux, ils ont quatre fils, y’en a un il est un peu attardé, et ben c’est leur préféré.
+Arthur
+(
+voix off
+) : Ah ben vous voyez, j’comprends, moi, ça !
+Rédigé par Aelis pour Kaamelott Hypnoseries

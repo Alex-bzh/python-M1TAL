@@ -1,0 +1,139 @@
+EXTERIEUR, JOUR, CAMP DE LANCELOT.
+Galessin discute avec Lancelot qui s'apprête à quitter le camp avec Ferghus.
+GALESSIN :
+Pour la dernière fois, n'y allez pas ! Vous voyez bien que c'est un piège !
+LANCELOT :
+C'est moi qui ai demandé à le voir, ça peut pas être un piège. Alors foutez-moi la paix et laissez-moi faire !
+GALESSIN :
+Je vous rappelle quand même que je suis censé assurer votre protection.
+LANCELOT :
+Ouais, vous êtes surtout censé être sous mes ordres, alors vous restez là et vous me lâchez les sabots. C'est compris ?
+GALESSIN :
+Laissez-moi au moins vous accompagner.
+LANCELOT :
+Non ! Il y a rien à craindre. Et je serai de retour avant la nuit. Puis… si je ne suis pas de retour avant minuit, beh… vous envoyez quelqu'un.
+GALESSIN :
+Ah ! Vous voyez que vous n’êtes pas tranquille. Je vous préviens, si vous ne me laissez pas venir avec vous…
+LANCELOT :
+Et ben quoi ?
+GALESSIN :
+Et ben, c'est pas gentil. Voilà !
+Lancelot et Ferghus s’éloignent.
+***
+Ouverture
+***
+EXTERIEUR, JOUR, KAAMELOTT.
+Dans la cour, Venec interpelle Arthur.
+VENEC :
+Non, Sire ! N'y allez pas !
+ARTHUR :
+Pourquoi j'irais pas ?
+VENEC :
+Mais parce que ça pue. Dans le genre traquenard avouez que ça se pose là !
+ARTHUR :
+Mais c'est dans un lieu public, qu'est ce que vous voulez qu'il m'arrive ?
+VENEC :
+Parce que s'ils comptent vous buter, vous croyez peut-être que c'est trois clodos qui vont les intimider ?
+ARTHUR :
+S'ils comptent me buter, il y a quand même des façons plus simples que d'organiser un rendez-vous secret dans une taverne.
+VENEC :
+Attendez ! Moi je m'y connais en saloperie et je peux vous dire que ce coup là, il sent le moisi à trente pieds.
+ARTHUR :
+Oh non mais… c'est tout à fait curieux, puisque c'est vous qui l'avez organisé.
+VENEC :
+Moi j'ai organisé le rendez-vous. Je ne suis pas responsable de ce qui se passe une fois que vous êtes assis.
+ARTHUR :
+Bon, on y va là ?
+VENEC :
+Ouais. En fait je pensais juste à une chose. Si je vous laissais y aller, sans moi ?
+ARTHUR :
+Tiens donc !
+VENEC :
+Non mais je vous accompagnerais bien, mais en cas d'embuscade, j'ai peur d'encombrer.
+ARTHUR :
+Mais je croyais qu'il fallait balancer un mot de passe avant d'arriver à la taverne !
+VENEC :
+Mais , moi je vous le dis le mot de passe.
+ARTHUR :
+Mais c'est pas vous qui deviez le faire ?
+VENEC :
+Oh ça, c'est pas grave.
+ARTHUR :
+Attendez. On fait tout comme c'est prévu. Sans ça ils vont trouver ça bizarre, ça va les mettre de travers.
+VENEC :
+Bon, d'accord, vous partez devant, je vous suis à une demi-heure, comme ça on se gênera pas pour marcher.
+***
+Ferghus et Lancelot en chemin, dans la forêt.
+FERGHUS :
+Dites ! Je pensais à une chose…
+LANCELOT :
+Vous ne pouvez pas y penser en marchant ?
+FERGHUS :
+Mais, je me disais… vu que c'est sûrement un piège et que c'est plutôt vous qui êtes visé, est-ce que c'est vraiment utile que je me fasse tuer, juste parce que je vous accompagne ?
+LANCELOT :
+La chevalerie, ça vous dit quelque chose ?
+FERGHUS :
+Heu, vaguement. Mais je suis pas chevalier alors…
+LANCELOT :
+Et le sacrifice, vous connaissez ?
+FERGHUS :
+Pareil, de nom, mais j'ai jamais pratiqué.
+LANCELOT :
+Et ben voilà, c'est une bonne occasion de vous y mettre.
+***
+Arthur et Venec arrivent à proximité de la taverne.
+VENEC :
+Pfff, elle est interminable cette route !
+ARTHUR :
+Ben je pense bien. Surtout qu'en se retournant sans arrêt sur soi-même on fait plus de bornes.
+VENEC :
+Ben je suis désolé d'être vigilant.
+ARTHUR :
+Hmm. Ben, c'est le moment de l'être là. Allez-donc m’annoncer.
+Venec s’éloigne puis se retourne.
+VENEC :
+Et qu'est ce qu'ils vont penser quand ils vont me voir entrer tout seul ? S'ils croient que je vous ai pas amené, ils vont peut-être se mettre en rogne ?
+ARTHUR :
+Mais attendez… je croyais que c'était convenu comme ça. Je croyais que vous deviez entrer, tout seul, avec le mot de passe
+VENEC :
+Ben oui.
+ARTHUR :
+Et ben alors ?
+VENEC :
+Et s’ils ont oublié ?
+ARTHUR :
+Vous savez, quitte à se faire buter, ça peut être très bien par moi aussi.
+VENEC :
+Ok.
+(Venec part en direction de la taverne avec méfiance.)
+***
+Dans la forêt, Ferghus et Lancelot marchent.
+FERGHUS :
+Attendez restez là, je passe devant !
+LANCELOT :
+Pour quoi faire ?
+FERGHUS :
+Comme ça vous êtes plus en sécurité. Je vais aller balancer le mot de passe et je reviens vous chercher.
+LANCELOT :
+Mais attendez c'est complètement dé . . . . .
+FERGHUS :
+J'y vais. Cachez-vous dans les fourrés !
+Ferghus part en courant. Lancelot est pris de court.
+***
+Fermeture
+***
+EXTERIEUR, FORÊT, PLUS TARD.
+Ferghus revient, très essoufflé. Lancelot est assis par terre et attend impatiemment.
+FERGHUS :
+C'est… c’est bon, vous pouvez y aller.
+LANCELOT :
+Mais je vais être en retard avec vos conneries ! A combien on est de la taverne ?
+FERGHUS :
+Vingt minutes.
+***
+Noir
+***
+FERGHUS :
+En courant, un quart d'heure.
+***
+Rédigé par Ubik3 pour Kaamelott Hypnoséries

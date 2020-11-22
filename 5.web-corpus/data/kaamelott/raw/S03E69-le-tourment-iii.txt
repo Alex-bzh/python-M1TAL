@@ -1,0 +1,149 @@
+Couloir du château.
+Venec
+: Attendez, je vous pête les prix vous continuez à râler.
+Arthur
+: Mais je râle pas je vous dis que je veux pas d’esclaves.
+Venec
+: Bon allez, 40 pour cent et je peux pas faire mieux.
+Arthur
+: Mais c’est pas une question de prix je vous dis que j’en veux pas !
+Venec
+: 45. 45 ! Mais là sire vous m’égorgez !
+Arthur
+: Je vais finir par vous égorger pour de bon !
+Dame Mevanwi regarde Arthur et le vendeur partir
+.
+***
+Générique
+***
+Karadoc et Mevanwi sont dans leur lit.
+Karadoc sale une morue.
+Karadoc
+: La morue ça pue. Mais c’est drôlement savoureux.
+Il regarde sa femme.
+Karadoc
+: Ca va ma mie ? Vous avez pas l’air dans votre assiette.
+Dame
+Mevanwi
+: Si si ça va.
+Karadoc
+: Vous êtes toute palotte vous devriez manger plus de sucre. Ils dorment les mômes ?
+Dame Mevanwi
+: Ouais.
+Karadoc
+: Le petit, je l’ai vu avalé une tranche de poitrine fumée tout à l’heure. S’il continue comme ça, ça va devenir un sacré.
+Dame Mevanwi
+: Hmm. Mais il a failli s’étouffer hein ?
+Karadoc
+: C’est normal. C’est en se cassant la gueule qu’on apprend à marcher. Combien de fois j’ai failli m’étouffer avec un os de lapin. Il faut jamais se laisser abattre par un échec c’est ça le secret.
+(Il cherche quelque chose)
+Merde.
+Dame Mevanwi
+: Qu’est-ce qu’il y a ?
+Karadoc
+: Ben je comprends pas, je la trouve plus.
+Dame Mevanwi
+: Vous trouvez plus quoi ?
+Karadoc
+: Une tête de cabri je l’avais mise là.
+***
+La taverne.
+Karadoc
+(
+à Perceval
+) : Je sais pas ce qu’elle a ma femme, ça tourne pas rond.
+Perceval
+: C’est pour ça que j’ai pas de femme moi. Y a toujours quelque chose qui va pas.
+Karadoc
+: Faudrait que je surveille son alimentation mais avec le boulot qu’on a…
+Perceval
+: Elle a peut-être le béguin pour un gars ?
+Karadoc
+: Non ça risque rien. Ma femme ce qu’elle aime, c’est le prestige. On se connait depuis qu’on a 5 ans. Elle a jamais pu me blairer jusqu'à ce que je devienne chevalier. Après là hop, ça allait tout seul.
+Perceval
+: Vous êtes sûr que c’est ça ?
+Karadoc
+: Elle peut pas saquer les paysans. Comme elle est d’une famille où il y a un peu de pognon, il lui faut de la finesse vous voyez. De la distinction. Moi, quand je sors des phrases, on sent que je suis pas né chez les cagos. Y a du style vous voyez.
+Perceval
+: Pour avoir le béguin pour un qui a du style, c’est pas les bourgeois qui manquent au château. Y en a même qui savent écrire.
+***
+Cour de l’église.
+Karadoc
+(
+au père Blaise
+) : Alors ça va ?
+Perceval
+: On vous dérange pas trop ?
+Père
+Blaise
+: Ca va ça va, ça dépend de ce que vous me voulez.
+Perceval
+: Rien, on discute un peu.
+Karadoc
+: Ca marche bien les jérémiades en ce moment ?
+Père
+Blaise
+: Les jérémiades ?
+Perceval
+: Toutes vos conneries là ! Devosionis, deus machin truc.
+Karadoc
+: C’est sûr le latin ça impose.
+Perceval
+: Avec les gonzesses ça marche pas mal ça non ?
+Karadoc
+: Les poulettes ça doit défiler sec !
+Père
+Blaise
+: Si vous me disiez carrément ce que vous voulez, je crois qu’on gagnerait du temps.
+Karadoc
+(
+hurlant
+) : MA FEMME ! Ma femme faut arrêter de lui tourner autour pigé ?
+Perceval
+: Et arrêtez de frimer avec vos merdes, parce que vos paperasses on va les foutre au feu ça va vous calmer !
+Karadoc
+: Et que je dessine des trucs dans les bouquins, je suis cultivé, je taille mes plumes moi-même!
+Perceval
+: Quand je regarde l’horizon je pense à la vie ! Que la nature est belle quand vient le soir !
+Karadoc
+: La neige qui poudroie dans la solitude de notre enfance.
+Perceval
+: Faut arrêter maintenant !
+Karadoc
+: La prochaine fois je vous saucissonne comme un Jésus et je vous balance au large !
+Père
+Blaise
+: La prochaine fois que quoi ?
+Perceval
+(
+hurlant
+) : La prochaine fois que vous venez tourner autour de la femme des autres avec vos simagrées !
+Karadoc
+: Ma femme elle s’appelle revient !
+Perceval
+(
+à Karadoc
+) : Nan elle s’appelle euh…
+Karadoc
+: Ouais elle s’appelle attention vous avez bien compris.
+Perceval s’écroule.
+***
+Chambre de Karadoc.
+Il met des tranches de lard entre les pages d’un livre.
+Karadoc
+: Les bouquins, y a rien de mieux pour conserver le lard. Ils sèchent bien au propre et en plus ça l’aplatit. Y avait les herbiers, maintenant il y a les lardiers. Toujours s’adapter. Et après ça qu’on vienne pas me dire que je suis pas un littéraire.
+Dame Mevanwi
+: Qu’est-ce que vous avez fait de mon marque-page ?
+Karadoc
+: Ah je l’ai viré c’était pas hygiénique. Je vous ai mis un petit bout de couenne à la place. Vous ferez gaffe de pas me les déplacer ils sont rangés par ordre d’affinage du plus frais au plus faisandé.
+Dame Mevanwi ouvre son livre d’un air dégoûté.
+***
+Générique
+***
+Karadoc
+: La neige qui poudroie dans la solitude de notre enfance. Qu’est-ce que vous en pensez ?
+Dame Mevanwi
+: Euh je sais pas.
+Karadoc
+: Ben c’est de moi. Cherchez pas question nostalgie vous trouverez pas mieux ailleurs.
+Rédigé par Sabricotte pour Kaamelott Hypnoseries
