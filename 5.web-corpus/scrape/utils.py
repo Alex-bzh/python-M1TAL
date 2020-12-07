@@ -29,3 +29,13 @@ def parse_html_by_class(html, selector):
     tags = soup.select(selector)
 
     return tags
+
+if __name__ == '__main__':
+    """Usage example.
+    Works only when used as standalone.
+    """
+    url = "http://www.llf.cnrs.fr/ita/"
+    html = get_html_from_url(url)
+    anchors = parse_html_by_class(html, '.liste-membres .field-content a')
+    for anchor in anchors:
+        print(anchor.get_text())
