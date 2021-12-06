@@ -7,3 +7,5 @@ dependencies:
   - nltk==3.4.5
   - rise
   - scrapy
+  - pip:
+    - git+https://github.com/ClaudeCoulombe/FrenchLefffLemmatizer.git
