@@ -5,7 +5,10 @@ dependencies:
   - beautifulsoup4
   - matplotlib
   - nltk==3.4.5
+  - pandas
   - rise
+  - scikit-learn
   - scrapy
+  - seaborn
   - pip:
     - git+https://github.com/ClaudeCoulombe/FrenchLefffLemmatizer.git
