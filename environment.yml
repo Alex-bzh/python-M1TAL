@@ -5,9 +5,11 @@ dependencies:
   - beautifulsoup4
   - matplotlib
   - nltk==3.4.5
+  - numpy
   - pandas
   - rise
   - scikit-learn
+  - scipy
   - scrapy
   - seaborn
   - pip:
