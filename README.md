@@ -11,14 +11,16 @@ https://docs.conda.io/en/latest/miniconda.html
 
 2. Install JupyterLab, an interactive environment for notebooks:
 ```
-conda install -c conda-forge jupyterlab
+$ conda install -c conda-forge jupyterlab
 ```
 
-3. Launch JupyterLab with a clone of this repository:
+3. Launch JupyterLab with a clone of this repository in its own environment:
 ```
-git clone git@github.com:Alex-bzh/python-M1TAL.git
-cd python-M1TAL
-jupyter-lab
+$ git clone git@github.com:Alex-bzh/python-M1TAL.git
+$ cd python-M1TAL
+$ conda env create -f environment.yml
+$ conda activate tal-ml
+$ jupyter-lab
 ```
 
 ## Installation – for those who want to have fine control over what they install
@@ -27,34 +29,34 @@ jupyter-lab
 
 1. First, check that Python is installed:
 ```
-which python
+$ which python
 ```
 If not, donwload the latest version:
 https://www.python.org/downloads/
 
 2. Check the version of your Python distribution (at least 3.7):
 ```
-python -V
+$ python -V
 ```
 If your version is older than 3.7, you may have a specific `python3.7` binary:
 ```
-which python3.7
+$ which python3.7
 ```
 If so, note the path and link it with the `python` command:
 ```
-ln -s PYTHON3.7_PATH python
+$ ln -s PYTHON3.7_PATH python
 ```
 
 ### JupyterLab installation
 
 1. Install JupyterLab with the python package manager:
 ```
-pip install jupyterlab
+$ pip install jupyterlab
 ```
 
 2. Launch JupyterLab with a clone of this repository:
 ```
-git clone git@github.com:Alex-bzh/python-M1TAL.git
-cd python-M1TAL
-jupyter-lab
+$ git clone git@github.com:Alex-bzh/python-M1TAL.git
+$ cd python-M1TAL
+$ jupyter-lab
 ```
