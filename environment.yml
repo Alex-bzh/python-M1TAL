@@ -1,12 +1,15 @@
-name: python-M1TAL-environment
+name: tal-ml
 channels:
   - conda-forge
+  - defaults
 dependencies:
   - beautifulsoup4
+  - jupyterlab=3.3
   - matplotlib
   - nltk==3.4.5
   - numpy
   - pandas
+  - pip
   - rise
   - scikit-learn
   - scipy
