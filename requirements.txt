@@ -1,0 +1,14 @@
+beautifulsoup4==4.11.1
+frenchleffflemmatizer==0.3
+ipython==8.4.0
+jupyterlab==3.4.5
+matplotlib==3.5.3
+nltk==3.6.7
+numpy==1.23.2
+pandas==1.4.3
+pip==22.2.2
+python==3.10.6
+scikit-learn==1.1.2
+scipy==1.9.0
+scrapy==2.6.2
+seaborn==0.11.2

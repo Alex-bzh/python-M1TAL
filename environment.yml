@@ -3,17 +3,17 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - beautifulsoup4
-  - jupyterlab=3.3
-  - matplotlib
-  - nltk==3.4.5
-  - numpy
-  - pandas
+  - beautifulsoup4=4.11
+  - jupyterlab=3.4
+  - matplotlib=3.5
+  - nltk=3.6
+  - numpy=1.23
+  - pandas=1.4
   - pip
-  - rise
-  - scikit-learn
-  - scipy
-  - scrapy
-  - seaborn
+  - python=3.10
+  - scikit-learn=1.1
+  - scipy=1.9
+  - scrapy=2.6
+  - seaborn=0.11
   - pip:
     - git+https://github.com/ClaudeCoulombe/FrenchLefffLemmatizer.git
