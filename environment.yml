@@ -5,6 +5,7 @@ channels:
 dependencies:
   - beautifulsoup4=4.11
   - jupyterlab=3.4
+  - jupyterlab-latex=3.1
   - matplotlib=3.5
   - nltk=3.6
   - numpy=1.23
