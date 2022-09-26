@@ -12,7 +12,7 @@ https://docs.conda.io/en/latest/miniconda.html
 2. Get a clone of this repository:
 
 ```
-$ git clone git@github.com:Alex-bzh/python-M1TAL.git
+$ git clone https://github.com/Alex-bzh/python-M1TAL.git
 $ cd python-M1TAL
 ```
 
