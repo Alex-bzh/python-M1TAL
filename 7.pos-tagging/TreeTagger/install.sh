@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# go to TT folder
+cd ./TreeTagger
+
 # get Linux tagger package
 wget https://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/data/tree-tagger-linux-3.2.4.tar.gz
 
