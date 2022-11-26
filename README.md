@@ -90,7 +90,7 @@ $ python -m pip install -r requirements.txt
 Simply run JupyterLab with a clone of this repository:
 
 ```
-$ git clone git@github.com:Alex-bzh/python-M1TAL.git
+$ git clone https://github.com/Alex-bzh/python-M1TAL.git
 $ cd python-M1TAL
 $ jupyter-lab
 ```
