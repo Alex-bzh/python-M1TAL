@@ -1,0 +1,14 @@
+lexeme;cat;ortho
+année;Ncfs;anneau
+année;Ncfp;anneaux
+ciel;Ncms;ciel
+ciel;Ncmp;ciels
+ciel;Ncmp;cieux
+drôle;Ncms;drôle
+drôle;Ncmp;drôles
+drôle;Ncfs;drôle
+drôle;Ncfp;drôles
+drôle;Afpfs;drôle
+drôle;Afpms;drôle
+drôle;Afpfp;drôles
+drôle;Afpmp;drôles
