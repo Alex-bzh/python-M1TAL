@@ -9,7 +9,7 @@ python -m spacy download fr_core_news_sm
 # TreeTagger
 #
 # go to TT folder
-cd ./5.pos-tagging/TreeTagger
+cd ./7.pos-tagging/TreeTagger
 
 # get Linux tagger package
 wget https://cis.uni-muenchen.de/~schmid/tools/TreeTagger/data/tree-tagger-linux-3.2.5.tar.gz
