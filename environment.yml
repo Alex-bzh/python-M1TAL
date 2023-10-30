@@ -11,6 +11,7 @@ dependencies:
   - nltk=3.6
   - numpy=1.23
   - pandas=1.4
+  - pillow
   - pip
   - python=3.10
   - scikit-learn=1.3
