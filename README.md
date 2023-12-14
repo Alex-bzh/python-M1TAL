@@ -6,7 +6,7 @@ Resources for Master TAL (NLP), first degree, at Inalco.
 
 ## Installation – for those who like not to ask too many questions
 
-### With *Conda*
+### With `conda`
 
 1. Download Miniconda, a small version of Anaconda with conda, Python, and some useful packages:  
 https://docs.conda.io/en/latest/miniconda.html
@@ -26,9 +26,9 @@ $ conda activate tal-ml
 $ jupyter-lab
 ```
 
-### With *Pixi*
+### With `pixi`
 
-1. Install [Pixi](https://pixi.sh/), a package management tool
+1. Install [Pixi](https://pixi.sh/), a (modern) package management tool
 
 2. Get a clone of this repository:
 
