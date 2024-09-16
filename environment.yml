@@ -3,21 +3,21 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - beautifulsoup4=4.11
+  - beautifulsoup4=4.12
   - gensim=4.3.2
-  - jupyterlab=3.4
-  - jupyterlab-latex=3.1
-  - matplotlib=3.5
-  - nltk=3.6
-  - numpy=1.23
-  - pandas=1.4
-  - pillow
+  - jupyterlab=4.2.5
+  - jupyterlab-latex=4.0
+  - matplotlib=3.7
+  - nltk=3.8
+  - numpy=1.25
+  - pandas=2.1
+  - pillow=10.0
   - pip
-  - python=3.10
+  - python=3.11
   - scikit-learn=1.3
-  - scipy=1.9
-  - scrapy=2.6
-  - seaborn=0.11
+  - scipy=1.11
+  - scrapy=2.10
+  - seaborn=0.12
   - tabulate=0.9.0
   - wordcloud=1.9.2
   - pip:
