@@ -2,7 +2,7 @@
 
 Resources for Master TAL (NLP), first degree, at Inalco.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Alex-bzh/python-M1TAL/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Alex-bzh/python-M1TAL/HEAD)
 
 ## Installation – for those who like not to ask too many questions
 
