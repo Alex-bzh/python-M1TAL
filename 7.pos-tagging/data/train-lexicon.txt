@@ -1,0 +1,11 @@
+Le	DET le
+petit	ADJ petit
+chat	NOM chat
+boit	VER boire
+du	DET du
+lait	NOM lait
+.	SENT .
+chien	NOM chien
+de	DET de
+l’	DET le
+eau	NOM eau

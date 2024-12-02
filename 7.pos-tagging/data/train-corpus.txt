@@ -1,0 +1,15 @@
+Le	DET
+petit	ADJ
+chat	NOM
+boit	VER
+du	DET
+lait	NOM
+.	SENT
+Le	DET
+petit	ADJ
+chien	NOM
+boit	VER
+de	DET
+l’	DET
+eau	NOM
+.	SENT
