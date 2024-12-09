@@ -136,3 +136,4 @@ exams/
 
 # Pixi
 .pixi/
+pixi.lock
