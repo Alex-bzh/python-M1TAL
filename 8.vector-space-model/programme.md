@@ -1,14 +1,5 @@
-### **Séance 1 : Introduction aux espaces vectoriels et aux vecteurs**
-- **Cours (1h30)** :
-  - Applications au traitement de données textuelles.
-- **Exercices (30 min)** :
-  - Calculs de distances et de similarités entre vecteurs donnés.
-
----
-
 ### **Séance 2 : Représentation vectorielle des textes**
 - **Cours (1h30)** :
-  - Passage d’un texte au bag-of-words (rappel rapide).
   - Matrices d'occurrences : construction et interprétation.
   - Limitations des matrices d'occurrences simples.
 - **Exercices (30 min)** :
