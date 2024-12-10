@@ -1,6 +1,5 @@
 ### **Séance 1 : Introduction aux espaces vectoriels et aux vecteurs**
 - **Cours (1h30)** :
-  - Distances : euclidienne, Manhattan, cosinus.
   - Applications au traitement de données textuelles.
 - **Exercices (30 min)** :
   - Calculs de distances et de similarités entre vecteurs donnés.
