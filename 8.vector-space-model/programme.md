@@ -1,17 +1,3 @@
-### **Séance 2 : Représentation vectorielle des textes**
-- **Cours (1h30)** :
-  - Matrices d'occurrences : construction et interprétation.
-  - Limitations des matrices d'occurrences simples.
-- **Exercices (30 min)** :
-  - Implémentation d’une matrice d’occurrences en Python à partir de textes.
-
----
-
-### **Séance 3 : Pondération et réduction de dimension**
-- **Cours (1h30)** :
-  - Pondération TF, IDF et TF-IDF.
-  - Calcul et normalisation des pondérations.
-  - Introduction à la réduction de dimension : intuition de l’Analyse Sémantique Latente (LSA).
 - **Exercices (30 min)** :
   - Calcul manuel/automatisé de TF-IDF sur un jeu de données textuelles.
 
