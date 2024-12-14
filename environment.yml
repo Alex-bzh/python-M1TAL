@@ -3,7 +3,6 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - beautifulsoup4=4.12
   - gensim=4.3.2
   - jupyterlab=4.3.3
   - jupyterlab-latex=4.0

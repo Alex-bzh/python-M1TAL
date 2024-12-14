@@ -10,7 +10,6 @@ platforms = ["linux-64", "osx-arm64", "osx-64", "win-64"]
 start = "jupyter lab"
 
 [dependencies]
-beautifulsoup4 = "4.12.*"
 gensim = "4.3.*"
 jupyterlab = "4.3.*"
 jupyterlab-latex = "4.*"
