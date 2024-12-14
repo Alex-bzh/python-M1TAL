@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450 150" width="450" height="150">
+  <!-- Triangle ABC -->
+  <polygon points="20,130 380,130 380,50" fill="none" stroke="darkorange" stroke-width="2" />
+  <!-- Triangle AB'C' -->
+  <polygon points="20,130 180,130 180,94" fill="none" stroke="darkblue" stroke-width="2" />
+  <!-- Points -->
+  <text x="9" y="135" font-size="14" fill="darkblue">A</text>
+  <text x="385" y="135" font-size="14" fill="darkorange">B</text>
+  <text x="175" y="145" font-size="14" fill="darkblue">B'</text>
+  <text x="385" y="50" font-size="14" fill="darkorange">C</text>
+  <text x="175" y="90" font-size="14" fill="darkblue">C'</text>
+  <!-- Textes -->
+  <text x="410" y="95" font-size="14" fill="darkblue" text-anchor="middle">697 m</text>
+  <text x="110" y="145" font-size="14" fill="darkblue">100 m</text>
+  <text x="185" y="115" font-size="14" fill="darkblue">5,31 m</text>
+</svg>
